@@ -1,0 +1,19 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Name: Eduardo Fagnoni
+	Site: http://www.efweb.com.br                            
+	E-mail: eduardofagnoni@gmail.com
+	Agency: Brancozulu
+	                          
+
+# THANKS
+
+    <name>
+
+# TECHNOLOGY COLOPHON
+
+    LESS, CSS3, HTML5, ASP Classic
+    jQuery, Modernizr, Normalize.css
