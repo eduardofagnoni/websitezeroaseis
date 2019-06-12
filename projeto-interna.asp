@@ -73,145 +73,63 @@
                 
                 <!-- menu sobreposto -->   
                 <!-- #include file="_includes/nav-header-menu-sobreposto.asp" -->
-                
+
             </header>
 
 
-            <div class="banner-interno" id="banner-interno-primeira-infancia" style="background: url(images/primeira-infancia-banner-topo.jpg) no-repeat top right ; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;">
+            <div class="banner-interno" id="banner-interno-primeira-infancia" style="background: url(images/bg-projetos.jpg) no-repeat top right ; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;">
                 <div class="container">                
                     <div class="descritivo-banner-interno">
                         <div class="deco-amarelo-destaques"></div>
-                        <h1 style="color:#5c3672;">a Primeira Infância</h1>
-                        <p class="paragrafo-1" style="color:#5c3672;">Corresponde ao período que vai desde a concepção do bebê, sua gestação, até os seis anos de idade da criança. É etapa fundamental para o desenvolvimento de qualquer pessoa e as experiências desse período são levadas para o resto da vida.</p>
-                        
-                        <div class="cont-btn-banner" style="width:270px; margin:60px auto 0 auto;">
-                            <a href="" id="veja-todas-as-areas-de-atuacao" class="btn">
-                            <svg width="277" height="62">
-                                <defs>
-                                    <linearGradient id="grad2">
-                                        <stop offset="0%" stop-color="#f8bf2c"/>
-                                        <stop offset="100%" stop-color="#f8bf2c" />
-                                    </linearGradient>
-                                </defs>
-                                <rect x="5" y="10" rx="25" fill="none" stroke="url(#grad2)" width="266" height="50"></rect>
-                            </svg>                            
-                                <span style="color:#f8bf2c">Saiba Mais</span>
-                            </a>
-                        </div>
-                        <div class="clearfix"></div>
+                        <h1 style="color:#5c3672;">Projetos</h1>
+                        <p class="paragrafo-1" style="color:#5c3672;">Acreditamos que cuidar, estimular, orientar e proteger as crianças é a forma mais eficaz para compor uma sociedade mais justa e equilibrada. Para isso, promovemos projetos que contribuem para conservar e melhorar os benefícios da Primeira Infância, voltados para <strong>Políticas Públicas, Pais e Cuidadores, Empresas e Empreendedorismo Social.</strong></p>
                     </div>
                 </div>
-            </div>            
-            
-            <section id="sect-oque-se-desenvolve-primeira-infancia">
-                <div class="container">
-                    <div class="tab-matriz-sect-pi">
-                        <div class="item-tab-sect-pi">
-                            <h3>A primeira infância é o período em que se desenvolve:</h3>
-                        </div>
-                        <div class="item-tab-sect-pi">
-                            <img src="images/chave-branca.gif" alt="">
-                        </div>
-                        <div class="item-tab-sect-pi">
-                            <div class="sub-tabela">
-                                <div class="item-sub-tab"><span class="ico-carater"></span>Caráter</div>
-                                <div class="item-sub-tab"><span class="ico-base"></span>Base Emocional e Cognitiva</div>
-                            </div>
-                            <div class="sub-tabela">
-                                <div class="item-sub-tab"><span class="ico-cidadania"></span>Cidadania</div>
-                                <div class="item-sub-tab"><span class="ico-consciencia"></span>Consciência de Direitos e Deveres</div>
-                            </div>
-                        </div>
-                        <div class="item-tab-sect-pi">
+            </div>   
 
-                            <div class="cont-btn-banner" style="width:50px; margin:60px auto 0 auto;">
-                                <a href="" id="veja-todas-as-areas-de-atuacao" class="btn">
-                                <svg width="277" height="62">
-                                    <defs>
-                                        <linearGradient id="grad3">
-                                            <stop offset="0%" stop-color="#522969"/>
-                                            <stop offset="100%" stop-color="#522969" />
-                                        </linearGradient>
-                                    </defs>
-                                    <rect x="5" y="10" rx="25" fill="none" stroke="url(#grad3)" width="266" height="50"></rect>
-                                </svg>                            
-                                    <span style="color:#522969">Saiba Mais</span>
-                                </a>
-                            </div>
+
+
+
+
+            <section class="container textos-laterais pag-int-resp" style="padding-top:80px;padding-bottom:80px;"> 
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-8 col-md-9">
+                            <header>
+                                <h3>Texto</h3>
+                            </header>
+                            <small>data  <span>empresas</span></small>                            
+                            <p>texto</p>
                             <div class="clearfix"></div>
-
+                            <div class="compartilhamento">
+                                <p>Compartilhar <a href="" target="_blank" class="fa fa-facebook-square"></a></p>
+                            </div>
                         </div>
-                    </div>
-                </div>            
+                        <div class="col-xs-12 col-sm-4 col-md-3">
+                            <aside>
+                                <h4>Mais projetos</h4>                               
+
+                                <ol>
+                                    <li onClick="">
+                                    <small>data</small>
+                                    <h5>texto</h5>
+                                    <p>texto</p>
+                                    </li>                                                                       
+                                </ol>
+                                <div class="ban-promo">
+                                    <img src="images/bn-marc.jpg" alt="" >
+                                </div>
+                            </aside>
+                        </div>                    
+                    </div> 
+                    <div class="row">
+                        
+                    </div>               
+                </div>        
             </section>
 
-            <section id="investimento-na-infancia">
-                <div class="container">
-                    <div class="col-xs-12 col-md-6">
-                        <div class="deco-roxo-destaques" style="margin-left:0;"></div>
-                        <h3>Criamos um futuro melhor investindo na infância.</h3>
-                        <p>Não investir na criança, nessa fase da vida, é um dos maiores causadores de problemas sociais futuros, segundo o economista ganhador do prêmio Nobel, James Heckman. Investir no desenvolvimento de uma criança apenas na educação formal custa o dobro do dinheiro que seria usado no ensino infantil, de 0 a 5 anos. <strong>Cada 1 dólar investido na Primeira Infância gera uma economia futura de 7 dólares em:</strong></p>
-                        <ul>
-                            <li>Assitência social</li>
-                            <li>Atendimento a doenças mentais</li>
-                            <li>Evasão escolar</li>
-                            <li>Abuso de drogas</li>
-                            <li>Sistema prisional</li>
-                            <li>Depressões</li>
-                        </ul>
 
-                        <div class="cont-btn-banner" style="width:50px; margin:60px 0 0 0;">
-                            <a href="" id="veja-todas-as-areas-de-atuacao" class="btn">
-                            <svg width="277" height="62">
-                                <defs>
-                                    <linearGradient id="grad3">
-                                        <stop offset="0%" stop-color="#522969"/>
-                                        <stop offset="100%" stop-color="#522969" />
-                                    </linearGradient>
-                                </defs>
-                                <rect x="5" y="10" rx="25" fill="none" stroke="url(#grad3)" width="266" height="50"></rect>
-                            </svg>                            
-                                <span style="color:#522969">Saiba Mais</span>
-                            </a>
-                        </div>
-                        <div class="clearfix"></div>
 
-                    </div>
-                    <div class="col-xs-12 col-md-6 img-grafico">
-                        <div class="flut-moment"><img src="images/momento-gap-social.png" alt=""></div>
-                        <img src="images/taxa-de-retorno-grafico.png" alt="">
-                    </div>
-                </div>
-            </section>
-
-            <section id="impacto-ao-investir-na-primeira-infancia" style="position:relative;z-index:2;padding-bottom:120px;">
-                <h3>Impacto ao investir na <br>primeira infância</h3>
-
-                <div class="container">
-                    <div class="col-xs-12 col-md-4 text-center">
-                        <img src="images/ico-educacao.gif" alt="Educação">
-                        <h4>Educação</h4>
-                        <img src="images/chave-amarela-para-baixo.gif" alt="">
-                        <p>Aprendizado 3x maior*</p>
-                    </div>
-                    <div class="col-xs-12 col-md-4 text-center">
-                        <img src="images/ico-saude.gif" alt="Saúde">
-                        <h4>Educação</h4>
-                        <img src="images/chave-amarela-para-baixo.gif" alt="">
-                        <p>Doenças: redução de até 50%**</p>
-                    </div>
-                    <div class="col-xs-12 col-md-4 text-center">
-                        <img src="images/ico-economia.gif" alt="Economia">
-                        <h4>Educação</h4>
-                        <img src="images/chave-amarela-para-baixo.gif" alt="">
-                        <p>Salários 36% melhores*</p>
-                    </div>
-
-                    <div class="clearfix"></div>
-
-                    <small class="text-center">*Estudos empreendidos pelo Perry Preschool Project, pelo Abecedarian Project e Chicago Child-Parent Center. **Estudo do epidemiologista inglês David Barker, com conclusões mundialmente reconhecidas pela comunidade científica.</small>
-                </div>
-            </section>
 
 
             <footer id="footer" style="margin-top:-60px;position:relative;z-index:1;">

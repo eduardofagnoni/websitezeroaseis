@@ -66,46 +66,16 @@
                         <div id="texto-de-apoio-para-o-logo" class="ponto-zero"><p>Organização sem fins lucrativos que <br>acredita na criação de um mundo melhor a <br>partir do cuidado com as crianças em sua <br>primeira infância.</p></div>
                         <div id="menu-hamburguer-abre" class="menu-hamburguer"><span class="glyphicon glyphicon-menu-hamburger" aria-hidden="true"></span></div>
                         
-                        <nav id="nav-menu-principal" class="nav-normal">
-                            <ul class="menu">
-                                <li><a href="<%=linkOInstituto%>" id="o-instituto-link">O instituto</a></li>
-                                <li><a href="<%=linkPrimeiraInfancia%>" id="primeira-infancia-link">1ª infância</a></li>
-                                <li><a href="<%=linkProjetos%>" id="projetos-link">Projetos</a></li>
-                                <li><a href="<%=linkBlog%>" id="blog-link">Blog</a></li>
-                                <li><a href="<%=linkSejaParceiro%>" id="seja-parceiro-link">Seja parceiro</a></li>
-                                <li><a href="<%=linkContato%>" id="contato-link">Contato</a></li>
-                                <li><a href="<%=linkDoe%>" id="doe-link">Doe</a></li>
-                            </ul>
-                            <ul class="linguagem">
-                                <li id="linguagem-pt-br" class="active"><a href="javascript:void(0)" id="portugues-link">Por <i class="fa fa-chevron-down"></i></a></li>
-                                <li id="linguagem-eng" class="desactive"><a href="javascript:void(0)" id="ingles-link">Eng <i class="fa fa-chevron-down"></i></a></li>
-                            </ul>
-                        </nav>
+                        <!-- #include file="_includes/nav-header-menu.asp" -->
+                        
 
                         <div class="clearfix"></div>
                     </div>    
                 </div> 
                 
-                <!-- menu sobreposto -->   
-                <nav id="nav-menu-sobreposto" class="menu-sobreposto">
+                <!-- menu sobreposto -->  
+                <!-- #include file="_includes/nav-header-menu-sobreposto.asp" --> 
                 
-                    
-                    <div id="menu-hamburguer-fecha" class="menu-hamburguer"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span></div>                    
-                    <ul class="menu">
-                        <li id="id-o-instituto"><a href="<%=linkOInstituto%>" id="o-instituto-link">O instituto</a></li>
-                        <li id="id-primeira-infancia"><a href="<%=linkPrimeiraInfancia%>" id="primeira-infancia-link">1ª infância</a></li>
-                        <li id="id-projetos"><a href="<%=linkProjetos%>" id="projetos-link">Projetos</a></li>
-                        <li id="id-blog"><a href="<%=linkBlog%>" id="blog-link">Blog</a></li>
-                        <li id="id-seja-parceiro"><a href="<%=linkSejaParceiro%>" id="seja-parceiro-link">Seja parceiro</a></li>
-                        <li id="id-contato"><a href="<%=linkContato%>" id="contato-link">Contato</a></li>
-                        <li id="id-doe"><a href="<%=linkDoe%>" id="doe-link">Doe</a></li>
-                    </ul>
-                    <ul class="linguagem">
-                        <li id="linguagem-pt-br" class="active"><a href="javascript:void(0)" id="portugues-link">Por <i class="fa fa-chevron-down"></i></a></li>
-                        <li id="linguagem-eng" class="desactive"><a href="javascript:void(0)" id="ingles-link">Eng <i class="fa fa-chevron-down"></i></a></li>
-                    </ul>
-                <canvas id="nokey"></canvas>
-                </nav>
 
             </header>
 
@@ -221,7 +191,7 @@
                             <div class="clearfix"></div>
                         </div>
                         <div class="col-md-8 col-xs-12">
-                            <a href="#" class="box">                                
+                            <a href="javascript:void(0)" class="box" data-toggle="modal" data-target="#myModal" onclick="abreFoto(1)">
                                 <img src="images/primeira-infancia.png" alt="Um trabalho de mais de 20 anos pela primeira infância">
                                 <div class="veja-o-video"></div>
                                 <div class="deco-camera-topo"><i class="fa fa-video-camera"></i></div>
@@ -446,21 +416,46 @@
                         </ul>
                     </div>
                 </div>
-            </footer>
-            
-            
+            </footer>            
+        </div>
+
+
+        <!-- Modal -->
+        <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>                    
+                    </div>
+                    <div class="modal-body">                    
+                        <div class="iframe" id="fotoaqui"></div>
+                    </div>                
+                </div>
+            </div>
         </div>
 
         
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.3.min.js"><\/script>')</script>  
+
+        <!-- ************************************************************************************************
+        *****************************************************************************************************
+        ******                                                                                         ******
+        ******      Abaixo estou usando o bootstrap.js sem estar minimizado, algumas áres foram        ******
+        ******      alteradas para quando a janela modal for fechada, existir uma chamada para a       ******
+        ******      função fechaFoto() - Caso outra página precisar usar o bootstrap.js a função       ******
+        ******      fechaFoto() precisa estar presente, mesmo que vazia, caso contrário o modal        ******
+        ******      não vai funcionar corretamente. Para páginas que não precisar fechar vídeos        ******
+        ******      usar a versão do bootstrap minimizada, que é a original.                           ******
+        ******                                                                                         ******
+        *****************************************************************************************************
+        ************************************************************************************************* -->
         <script src="bootstrap/js/bootstrap.js"></script>
+
+        <!-- <script src="bootstrap/js/bootstrap.min.js"></script> -->
         <script src="vendors/js/animacoes.js"></script>
-
         <script src="vendors/bxSlider/jquery.bxslider.js"></script>
-
-
-
+        <script src="js/main.js"></script>
 
         <script>  
 
