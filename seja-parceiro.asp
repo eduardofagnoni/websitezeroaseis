@@ -77,62 +77,90 @@
             </header>
 
 
-            <div class="banner-interno" id="banner-interno-primeira-infancia" style="background: url(images/bg-projetos.jpg) no-repeat top right ; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;min-height:500px;">
+            <div class="banner-interno" id="banner-interno-primeira-infancia" style="background: url(images/bg-contato.jpg) no-repeat top right ; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; min-height: 434px; ">
                 <div class="container">                
                     <div class="descritivo-banner-interno">
                         <div class="deco-amarelo-destaques"></div>
-                        <h1 style="color:#5c3672;">Projetos</h1>
-                        <p class="paragrafo-1" style="color:#5c3672;">Acreditamos que cuidar, estimular, orientar e proteger as crianças é a forma mais eficaz para compor uma sociedade mais justa e equilibrada. Para isso, promovemos projetos que contribuem para conservar e melhorar os benefícios da Primeira Infância, voltados para <strong>Políticas Públicas, Pais e Cuidadores, Empresas e Empreendedorismo Social.</strong></p>
+                        <h1 style="color:#5c3672;">Seja parceiro</h1>
+                        <p class="paragrafo-1" style="color:#5c3672;">Sua empresa também pode ajudar o Instituto Zero a Seis a construir um futuro mais pleno e desenvolvido. Entre em contato e saiba como.</p>
                     </div>
                 </div>
             </div>   
 
 
+            <section id="fale-conosco">
+                <div class="container tab-fale-conosco">
+                    <div class="item-tab-fale-conosco">
 
-
-
-            <section class="container textos-laterais pag-int-resp" style="padding-top:80px;padding-bottom:80px;"> 
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xs-12 col-sm-8 col-md-9">
-                            <header>
-                                <h3>Texto</h3>
-                            </header>
-                            <small>data  <span>empresas</span></small>                            
-                            <p>texto</p>
-                            <div class="clearfix"></div>
-                            <div class="compartilhamento">
-                                <p>Compartilhar <a href="" target="_blank" class="fa fa-facebook-square"></a></p>
-                            </div>
-                        </div>
-                        <div class="col-xs-12 col-sm-4 col-md-3">
-                            <aside>
-                                <h4>Mais projetos</h4>                               
-
-                                <ol>
-                                    <li onClick="">
-                                    <small>data</small>
-                                    <h5>texto</h5>
-                                    <p>texto</p>
-                                    </li>                                                                       
-                                </ol>
-                                <div class="ban-promo">
-                                    <img src="images/bn-marc.jpg" alt="" >
+                        <form id="frmFaleConosco" method="POST" action="__enviar_arquivo.asp">
+                            <div class="col-md-6 col-xs-12">
+                                <div class="form-group">
+                                    <label for="txtAssunto">Assunto</label>
+                                    <select name="txtAssunto" id="txtAssunto" class="form-control">
+                                        <option value="">Selecione</option>
+                                        <option value="...">...</option>
+                                    </select>
                                 </div>
-                            </aside>
-                        </div>                    
-                    </div> 
-                    <div class="row">
-                        
-                    </div>               
-                </div>        
-            </section>
+                                <div class="form-group">
+                                    <label for="txtNome">Nome</label>
+                                    <input type="text" name="txtNome" id="txtNome" class="form-control" placeholder="Digite seu nome aqui">
+                                </div>
+                                <div class="form-group">
+                                    <label for="txtEmail">E-mail</label>
+                                    <input type="email" name="txtEmail" id="txtEmail" class="form-control" placeholder="Digite seu e-mail">
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-xs-12">
+                                <div class="form-group">
+                                    <label for="txtMsg">Mensagem</label>
+                                    <textarea name="" id="" class="form-control" placeholder="Digite suas mensagens"></textarea>
+                                </div>
+                                
+                                <div class="cont-btn-banner" style="float:right">
+                                    <a href="" class="btn" onClick="document.getElementById('frmFaleConosco').submit();">
+                                    <svg width="277" height="62">
+                                        <defs>
+                                            <linearGradient id="grad2">
+                                                <stop offset="0%" stop-color="#f8bf2c"/>
+                                                <stop offset="100%" stop-color="#f8bf2c" />
+                                            </linearGradient>
+                                        </defs>
+                                        <rect x="5" y="10" rx="25" fill="none" stroke="url(#grad2)" width="266" height="50" stroke-width="1"></rect>
+                                    </svg>
+                                        <span>Enviar</span>
+                                    </a>
+                                </div>
+                                <div class="clearfix"></div>                                
+                            </div>
+                        </form>
+
+                    </div>
+                    <div class="item-tab-fale-conosco">
+                        <img src="images/telefone-contato.gif" alt="">
+                    </div>
+                </div>
+            </section>      
 
 
+            <section id="nossos-parceiros">
+                <div class="deco-separa-paginas roxo-transparente"></div>
+                <h3>Nossos Parceiros</h3>
+                <div class="container">
+                    <ul>
+                        <li><img src="images/parceiros/google.gif" alt="Google"></li>
+                        <li><img src="images/parceiros/elemidia.gif" alt="Elemidia"></li>
+                        <li><img src="images/parceiros/espm.gif" alt="ESPM Social"></li>
+                        <li><img src="images/parceiros/brancozulu.gif" alt="Brancozulu"></li>
+                        <li><img src="images/parceiros/nielsen.gif" alt="Nielsen"></li>
+                        <li><img src="images/parceiros/microsoft.gif" alt="Microsoft"></li>
+                        <li><img src="images/parceiros/mba.gif" alt="MBA Barbosa Mussnich Aragão"></li>
+                        <li><img src="images/parceiros/pupa.gif" alt="Pupa"></li>
+                    </ul>
+                </div>
+            </section>      
 
 
-
-            <footer id="footer" style="margin-top:-60px;position:relative;z-index:1;">
+            <footer id="footer">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-3 col-sm-4 col-xs-12">

@@ -73,11 +73,11 @@
                 
                 <!-- menu sobreposto -->   
                 <!-- #include file="_includes/nav-header-menu-sobreposto.asp" -->
-                
+
             </header>
 
 
-            <div class="banner-interno" id="banner-interno-primeira-infancia" style="background: url(images/bg-projetos.jpg) no-repeat top right ; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;">
+            <div class="banner-interno" id="banner-interno-primeira-infancia" style="background: url(images/bg-projetos.jpg) no-repeat top right ; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; min-height: 500px;">
                 <div class="container">                
                     <div class="descritivo-banner-interno">
                         <div class="deco-amarelo-destaques"></div>
@@ -94,7 +94,7 @@
 
                     <div class="row">
                         <div class="col-xs-12 col-md-6">
-                            <div class="projeto-item">
+                            <div class="projeto-item" onclick="location.href='projeto-interna.asp'">
                                 <h4>projeto pupa</h4>
                                 <small>28.07.2018 <span>empresas</span></small>
                                 <figure>
@@ -176,7 +176,70 @@
                     </div>
                     
                 </div>            
-            </section>     
+            </section> 
+
+
+            <section id="premios-conquistados" style="-webkit-box-shadow: 0px -11px 7px 0px rgba(50, 50, 50, 0.14);-moz-box-shadow:0px -11px 7px 0px rgba(50, 50, 50, 0.14);box-shadow:0px -11px 7px 0px rgba(50, 50, 50, 0.14); padding:80px 0 40px 0;">
+                <div class="container">
+
+                    <h3 style="text-transform:uppercase; text-align:left; font-weight:normal; float:left"><strong>prêmios conquistados </strong><br>pelos nossos projetos</h3>
+                    <p style="text-align:left;padding-top:30px;">Ao longo dos anos, o Instituto Zero a Seis desenvolveu diversos projetos que conquistaram importantes reconhecimentos nacionais e internacionais. Confira!</p>
+
+                    <div class="clearfix"></div>
+
+                    <div class="row">                        
+                        
+                            <div class="col-md-4 col-xs-12">
+                                <a href="" id="premio-google" class="caixa-premios" title="">
+                                    <div class="col-md-4">
+                                        <img src="images/spirit-of-peace.jpg" alt="Spirit of Peace and Prosperity Summit">
+                                    </div>
+                                    <div class="col-md-8">
+                                        <div class="cont">
+                                            <p>Spirit of Peace and Prosperity Summit - 2018 - ONU</p>
+                                            <p>Conferência internacional anual de alto nível, realizada na matriz das Nações Unidas, em Nova Iorque, conferiu uma menção honrosa póstuma ao Dr. João Augusto Figueiró.</p>
+                                            <p><span><!-- seta --></span> Saiba mais</p>
+                                        </div>
+                                    </div>                                  
+                                    <div class="clearfix"></div>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-xs-12">
+                                <a href="" id="premio-google" class="caixa-premios" title="">
+                                    <div class="col-md-4">
+                                        <img src="images/global-impact-awards-google.jpg" alt="Global Impact Awards">
+                                    </div>
+                                    <div class="col-md-8">
+                                        <div class="cont">
+                                            <p>Prêmio google | Brazil o Desafio de Impacto Social.</p>
+                                            <p>Desafio criado para apoiar ONGs que trabalham para solucionar problemas sociais por meio da tecnologia. Dentre as 751 propostas, nosso aplicativo ProBebê foi um dos quatro premiados.</p>
+                                            <p><span><!-- seta --></span> Saiba mais</p>
+                                        </div>
+                                    </div>                                  
+                                    <div class="clearfix"></div>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-xs-12">
+                                <a href="" id="premio-change-makers" class="caixa-premios" title="">
+                                    <div class="col-md-4">
+                                        <img src="images/change-makers.jpg" alt="Change Makers">
+                                    </div>
+                                    <div class="col-md-8">
+                                        <div class="cont">
+                                            <p>prêmio change makers 2014 - reinventando a aprendizagem.</p>
+                                            <p>O <strong>Projeto PUPA</strong>, recebeu o Prêmio Change Makers  2014 da LEGO Foundation e Ashoka, sendo considerado como um dos 10 mais relevantes projetos sociais do mundo.</p>
+                                            <p><span><!-- seta --></span> Saiba mais</p>
+                                        </div>
+                                    </div>                                 
+                                    <div class="clearfix"></div>                                   
+                                </a>
+                            </div>
+
+                                                   
+                    </div>
+                </div>
+                <div class="clearfix"></div>   
+            </section>    
             
 
 
@@ -197,40 +260,7 @@
                         </div>
                         <div class="col-md-9 col-sm-8 col-xs-12 espacamento-top-footer">
                             <div class="col-md-2 col-xs-12"><!-- coluna vazia --></div>
-                            <div class="col-md-2 col-xs-12">
-                                <a href="<%=linkOInstituto%>">Institucional</a>
-                                <a href="">O Instituto ZAS</a>
-                                <a href="">Atuação</a>
-                                <a href="">Inspiração</a>
-                                <a href="">Corpo Diretivo</a>
-                                <a href="">Relatório Anual</a>
-                                <a href="">Parceiros</a>
-                            </div>
-                            <div class="col-md-2 col-xs-12">
-                                <a href="<%=linkPrimeiraInfancia%>">Primeira infância</a>
-                                <a href="">A primeira infância</a>
-                                <a href="">Porque investir</a>
-                                <a href="">Impactos</a>
-                            </div>
-                            <div class="col-md-2 col-xs-12">
-                                <a href="<%=linkProjetos%>">Projetos</a>
-                                <a href="">Realizados</a>
-                                <a href="">Em andamento</a>
-                                <a href="">Prêmios</a>
-                            </div>
-                            <div class="col-md-2 col-xs-12">
-                                <a href="<%=linkBlog%>">Blog</a>
-                                <a href="">Políticas e práticas</a>
-                                <a href="">Educação infantil</a>
-                                <a href="">Atenção às famílias</a>
-                            </div>
-                            <div class="col-md-2 col-xs-12">
-                                <a href="<%=linkSejaParceiro%>">Participe</a>
-                                <a href="">Trabalhe conosco</a>
-                                <a href="">Seja nosso parceiro</a>
-                                <a href="">Contribua com o ZAS</a>
-                                <a href="<%=linkContato%>">Contato</a>
-                            </div>
+                            <!-- #include file="_includes/nav-footer.asp" -->
                         </div>
                     </div>
 

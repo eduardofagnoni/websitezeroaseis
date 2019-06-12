@@ -6,7 +6,7 @@
         <!-- <li><a href="<%=linkBlog%>" id="blog-link">Blog</a></li> -->
         <li><a href="<%=linkSejaParceiro%>" id="seja-parceiro-link">Seja parceiro</a></li>
         <li><a href="<%=linkContato%>" id="contato-link">Contato</a></li>
-        <li><a href="<%=linkDoe%>" id="doe-link">Doe</a></li>
+        <!-- <li><a href="<%=linkDoe%>" id="doe-link">Doe</a></li> -->
     </ul>
     <!--<ul class="linguagem">
         <li id="linguagem-pt-br" class="active"><a href="javascript:void(0)" id="portugues-link">Por <i class="fa fa-chevron-down"></i></a></li>

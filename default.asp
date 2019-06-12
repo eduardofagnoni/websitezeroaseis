@@ -209,7 +209,7 @@
                     <p>Sensibilizamos a sociedade e promovemos projetos para os setores públicos e privados, ações direcionadas a pais, familiares, cuidadores e educadores, além de atuar em parceria com empreendedores sociais.</p>
                     <div class="row">
                         <div class="col-md-3 col-sm-6 col-xs-12">
-                            <a href="" id="politicas-publicas" title="">
+                            <a href="<%=linkProjetos%>" id="politicas-publicas" title="">
                                 <img src="images/politicas-publicas-zero-a-seis.gif" alt="Políticas Públicas">
                                 <p>Políticas Públicas</p>
                                 <p>Atuamos na consultoria junto a gestores públicos para avaliar, inspirar, estruturar e implantar programas voltados à primeira infância em regiões, distritos ou municípios em todo o país.</p>
@@ -217,7 +217,7 @@
                             </a>
                         </div>
                         <div class="col-md-3 col-sm-6 col-xs-12">
-                            <a href="" id="empresas" title="">
+                            <a href="<%=linkProjetos%>" id="empresas" title="">
                                 <img src="images/empresas-zero-a-seis.gif" alt="Políticas Públicas">
                                 <p>Empresas</p>
                                 <p>Repasse voluntário de recursos a projetos sociais de forma planejada e monitorada, com capacidade de gerar mudanças relevantes para o público envolvido (Investimento Social Privado).</p>
@@ -225,7 +225,7 @@
                             </a>
                         </div>
                         <div class="col-md-3 col-sm-6 col-xs-12">
-                            <a href="" id="pais-e-cuidadores" title="">
+                            <a href="<%=linkProjetos%>" id="pais-e-cuidadores" title="">
                                 <img src="images/pais-e-cuidadores-zero-a-seis.gif" alt="Políticas Públicas">
                                 <p>Pais e cuidadores</p>
                                 <p>Disseminamos informações para que pais, familiares, cuidadores e educadores se sintam mais seguros, acolhidos e orientados para cuidar melhor dos bebês e das crianças.</p>
@@ -233,7 +233,7 @@
                             </a>
                         </div>
                         <div class="col-md-3 col-sm-6 col-xs-12">
-                            <a href="" id="empreendedorismo-social" title="">
+                            <a href="<%=linkProjetos%>" id="empreendedorismo-social" title="">
                                 <img src="images/empreendedorismo-social-zero-a-seis.gif" alt="Políticas Públicas">
                                 <p>Empreendedorismo social.</p>
                                 <p>Agregamos empreendedores sociais, produtos e serviços para que, possamos dialogar, compor soluções e fazer com que a causa seja priorizada.</p>
@@ -243,7 +243,7 @@
                     </div>
                     
                     <div class="cont-btn-banner" style="width:270px; margin:60px auto 0 auto;">
-                        <a href="" id="veja-todas-as-areas-de-atuacao" class="btn">
+                        <a href="<%=linkProjetos%>" id="veja-todas-as-areas-de-atuacao" class="btn">
                         <svg width="277" height="62">
                             <defs>
                                 <linearGradient id="grad2">
@@ -306,13 +306,15 @@
                 <div class="clearfix"></div>   
             </section>
 
+
+            <!--
             <div class="deco-separa-paginas amarelo-transparente" style="margin-bottom:-33px;"></div>
             <section id="confira-blog">                
                 <div class="container">
                     <h3>Confira nosso blog</h3>
                     <div class="row">
                         <div class="col-md-4 col-sm-6 col-xs-12">
-                            <a href="" id="noticia-<%=idDaNoticia%>" title=""> <!-- precisa colocar a variável do ID da notícia -->
+                            <a href="" id="noticia-<%=idDaNoticia%>" title=""> 
                                 <img src="images/foto-noticias-matriz.jpg" class="foto-noticia" alt="Lorem ipsnovortes lresmo varme.">
                                 <div class="box-noticias">
                                     <div class="textos">
@@ -321,11 +323,11 @@
                                     </div>                                    
                                 </div>
                                 <b></b>
-                                <p><span><!-- seta --></span> Saiba mais</p>
+                                <p><span></span> Saiba mais</p>
                             </a>
                         </div>
                         <div class="col-md-4 col-sm-6 col-xs-12">
-                            <a href="" id="noticia-<%=idDaNoticia%>" title=""> <!-- precisa colocar a variável do ID da notícia -->
+                            <a href="" id="noticia-<%=idDaNoticia%>" title=""> 
                                 <img src="images/foto-noticias-matriz.jpg" class="foto-noticia" alt="Lorem ipsnovortes lresmo varme.">
                                 <div class="box-noticias">
                                     <div class="textos">
@@ -334,11 +336,11 @@
                                     </div>                                    
                                 </div>
                                 <b></b>
-                                <p><span><!-- seta --></span> Saiba mais</p>
+                                <p><span></span> Saiba mais</p>
                             </a>
                         </div>
                         <div class="col-md-4 col-sm-6 col-xs-12">
-                            <a href="" id="noticia-<%=idDaNoticia%>" title=""> <!-- precisa colocar a variável do ID da notícia -->
+                            <a href="" id="noticia-<%=idDaNoticia%>" title=""> 
                                 <img src="images/foto-noticias-matriz.jpg" class="foto-noticia" alt="Lorem ipsnovortes lresmo varme.">
                                 <div class="box-noticias">
                                     <div class="textos">
@@ -347,12 +349,14 @@
                                     </div>                                    
                                 </div>
                                 <b></b>
-                                <p><span><!-- seta --></span> Saiba mais</p>
+                                <p><span></span> Saiba mais</p>
                             </a>
                         </div>
                     </div>
                 </div>
             </section>
+            -->
+
 
             <footer id="footer">
                 <div class="container">
@@ -371,40 +375,7 @@
                         </div>
                         <div class="col-md-9 col-sm-8 col-xs-12 espacamento-top-footer">
                             <div class="col-md-2 col-xs-12"><!-- coluna vazia --></div>
-                            <div class="col-md-2 col-xs-12">
-                                <a href="<%=linkOInstituto%>">Institucional</a>
-                                <a href="">O Instituto ZAS</a>
-                                <a href="">Atuação</a>
-                                <a href="">Inspiração</a>
-                                <a href="">Corpo Diretivo</a>
-                                <a href="">Relatório Anual</a>
-                                <a href="">Parceiros</a>
-                            </div>
-                            <div class="col-md-2 col-xs-12">
-                                <a href="<%=linkPrimeiraInfancia%>">Primeira infância</a>
-                                <a href="">A primeira infância</a>
-                                <a href="">Porque investir</a>
-                                <a href="">Impactos</a>
-                            </div>
-                            <div class="col-md-2 col-xs-12">
-                                <a href="<%=linkProjetos%>">Projetos</a>
-                                <a href="">Realizados</a>
-                                <a href="">Em andamento</a>
-                                <a href="">Prêmios</a>
-                            </div>
-                            <div class="col-md-2 col-xs-12">
-                                <a href="<%=linkBlog%>">Blog</a>
-                                <a href="">Políticas e práticas</a>
-                                <a href="">Educação infantil</a>
-                                <a href="">Atenção às famílias</a>
-                            </div>
-                            <div class="col-md-2 col-xs-12">
-                                <a href="<%=linkSejaParceiro%>">Participe</a>
-                                <a href="">Trabalhe conosco</a>
-                                <a href="">Seja nosso parceiro</a>
-                                <a href="">Contribua com o ZAS</a>
-                                <a href="<%=linkContato%>">Contato</a>
-                            </div>
+                            <!-- #include file="_includes/nav-footer.asp" -->                            
                         </div>
                     </div>
 

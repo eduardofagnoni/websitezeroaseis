@@ -7,7 +7,7 @@
         <!-- <li id="id-blog"><a href="<%=linkBlog%>" id="blog-link">Blog</a></li> -->
         <li id="id-seja-parceiro"><a href="<%=linkSejaParceiro%>" id="seja-parceiro-link">Seja parceiro</a></li>
         <li id="id-contato"><a href="<%=linkContato%>" id="contato-link">Contato</a></li>
-        <li id="id-doe"><a href="<%=linkDoe%>" id="doe-link">Doe</a></li>
+        <!-- <li id="id-doe"><a href="<%=linkDoe%>" id="doe-link">Doe</a></li> -->
     </ul>
     <!--
     <ul class="linguagem">

@@ -2184,3 +2184,118 @@ section.pag-int-resp .compartilhamento p a:hover {
 /*-----------------------------------------------
 	Modal - Fim
 -----------------------------------------------*/
+
+
+
+
+
+/***************************************************************************
+****************************************************************************
+Contato
+
+****************************************************************************
+***************************************************************************/
+#fale-conosco {
+    background: #f4f4f4;
+    padding-bottom: 80px;
+}
+
+@media only screen and (min-width: 320px) {
+    .tab-fale-conosco {
+        display: block;
+        width: 100%;
+        //table-layout: fixed;
+        //border-spacing: 5px;
+    }
+    .item-tab-fale-conosco {
+        //display: table-cell;
+        //vertical-align:bottom;
+        text-align: left;
+    }
+    .item-tab-fale-conosco:nth-child(1) {
+        width: 100%;
+    }
+    
+    .item-tab-fale-conosco:nth-child(2) img {
+        margin:80px auto 0 auto;   
+        max-width: 100%;             
+    }
+}
+@media only screen and (min-width: 480px) {}
+@media only screen and (min-width: 600px) {}
+@media only screen and (min-width: 768px) {} //col-sm
+@media only screen and (min-width: 830px) {}
+@media only screen and (min-width: 992px) {
+    .item-tab-fale-conosco:nth-child(2) img {
+        margin:0 0 0 0;
+        max-width: inherit;
+        width: 335px;   
+    }
+}
+@media only screen and (min-width: 1382px) {
+    .tab-fale-conosco {
+        display: table;
+        width: 100%;
+        table-layout: fixed;
+        border-spacing: 5px;
+    }
+    .item-tab-fale-conosco {
+        display: table-cell;
+        vertical-align:bottom;
+        text-align: left;
+    }
+    .item-tab-fale-conosco:nth-child(1) {
+        width: 780px;
+    }    
+}
+
+
+
+#frmFaleConosco label {
+    color:#9b97b6;
+    text-transform: uppercase;
+    .text-fira-sans;
+    font-size: 0.7em;
+    font-weight: normal;
+}
+#frmFaleConosco select {
+    border-color: #f8bf2c;
+    color: #5c3672;
+    text-transform: uppercase;
+    .text-fira-sans;
+    font-size: 0.9em;
+    font-weight: bold;
+    border-radius:0;
+    background: #f4f4f4;
+}
+#frmFaleConosco input {
+    border:none;
+    border-bottom: solid 1px #f8bf2c;
+    box-shadow:none;
+    color: #5c3672;
+    text-transform: uppercase;
+    .text-fira-sans;
+    font-size: 0.9em;
+    font-weight: bold;
+    border-radius:0;
+    background: #f4f4f4;
+}
+#frmFaleConosco textarea {
+    height: 178px;
+    resize: none;
+    border-color: #f8bf2c;
+    color: #5c3672;
+    text-transform: uppercase;
+    .text-fira-sans;
+    font-size: 0.9em;
+    font-weight: bold;
+    border-radius:0;
+    background: #f4f4f4;
+}
+#frmFaleConosco ::placeholder {
+    color: #5c3672;
+    text-transform: uppercase;
+    .text-fira-sans;
+    font-size: 0.9em;
+    font-weight: bold;
+}
