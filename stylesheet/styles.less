@@ -1,3 +1,15 @@
+/* -----------------------------------------------------
+  Media Query Exemplos
+  -----------------------------------------------------
+
+@media only screen and (min-width: 320px) {}
+@media only screen and (min-width: 480px) {}
+@media only screen and (min-width: 600px) {}
+@media only screen and (min-width: 768px) {} //col-sm
+@media only screen and (min-width: 830px) {}
+@media only screen and (min-width: 992px) {}
+@media only screen and (min-width: 1382px) {}
+*/  
 
 /*-----------------------------------------------------
   Fontes
@@ -602,6 +614,16 @@ section#nossas-areas-de-atuacao {
     border-top-left-radius: 10px;
     display: block;
     background-color:#ffd600;
+    width:16px;
+    height:20px;
+    margin: 20px auto 10px auto;    
+}
+.deco-roxo-destaques {
+    -webkit-border-top-left-radius: 10px;
+    -moz-border-radius-topleft: 10px;
+    border-top-left-radius: 10px;
+    display: block;
+    background-color:#522969;
     width:16px;
     height:20px;
     margin: 20px auto 10px auto;    
@@ -1442,4 +1464,562 @@ O Instituto - Para nós, criança é assunto sério
     .tempoDeTransicao(0.2s);
     background-color: #ffd600;
     color: #000000;
+}
+
+
+/***************************************************************************
+****************************************************************************
+O Instituto - Corpo diretivo
+
+****************************************************************************
+***************************************************************************/
+
+section#corpo-diretivo {
+    background-color: #e7e5f2;
+}
+section#corpo-diretivo h3 {
+    .text-fira-sans;
+    font-weight: bold;
+    color: #522969;
+    font-size: 2.5em;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 50px;
+}
+section#corpo-diretivo p {
+    color: #522969;
+    .text-fira-sans;
+    font-size: 1.2em;
+}
+
+@media only screen and (min-width: 320px) {
+    section#corpo-diretivo .tabela-matriz-corpo-dir {
+        display: block;
+        width: 100%;
+        table-layout: fixed;
+        border-spacing: 0;
+    }
+    section#corpo-diretivo .item-tab-matriz {
+        /*display: table-cell;
+        vertical-align: middle;*/
+        text-align: left;
+    }
+}
+@media only screen and (min-width: 480px) {}
+@media only screen and (min-width: 600px) {}
+@media only screen and (min-width: 768px) {} //col-sm
+@media only screen and (min-width: 830px) {}
+@media only screen and (min-width: 992px) {
+    section#corpo-diretivo .tabela-matriz-corpo-dir {
+        display: table;
+        width: 100%;
+        table-layout: fixed;
+        border-spacing: 0;
+    }
+    section#corpo-diretivo .item-tab-matriz {
+        display: table-cell;
+        vertical-align: middle;
+        text-align: left;
+    }
+}
+@media only screen and (min-width: 1382px) {}
+
+
+
+section#corpo-diretivo .tabela-corpo-der {
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+    border-spacing: 15px;
+}
+section#corpo-diretivo .tabela-corpo-der .item-tab {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: left;
+}
+section#corpo-diretivo .tabela-corpo-der .item-tab p {
+    .text-fira-sans;
+    color: #522969;
+}
+section#corpo-diretivo .tabela-corpo-der .item-tab:nth-child(1) p {
+    font-weight: bold;
+    font-size: 1.1em;
+}
+section#corpo-diretivo .tabela-corpo-der .item-tab:nth-child(2) {
+    width: 20px;
+}
+section#corpo-diretivo .tabela-corpo-der .item-tab:nth-child(3) p {
+    font-weight: normal;
+    font-size: 1em;
+}
+
+
+/***************************************************************************
+****************************************************************************
+O Instituto - Corpo diretivo - Fim
+
+****************************************************************************
+***************************************************************************/
+
+
+
+
+/***************************************************************************
+****************************************************************************
+O Instituto - Relatório anual Zero a Seis
+
+****************************************************************************
+***************************************************************************/
+
+section#relatorio-anual-zas {
+    background-color: #f8bf2c;    
+}
+
+@media only screen and (min-width: 320px) {
+
+    section#relatorio-anual-zas .tabela-relatorio-anual {
+        display: block;
+        width: 100%;
+        table-layout: fixed;
+        border-spacing: 15px;
+    }
+    section#relatorio-anual-zas .tabela-relatorio-anual .item-tab-rel-zas {
+        /*display: table-cell;*/
+        vertical-align:bottom;
+        text-align: center;
+    }
+    section#relatorio-anual-zas .tabela-relatorio-anual .item-tab-rel-zas:nth-child(1) {
+        width: 100%;
+    }
+    section#relatorio-anual-zas .tabela-relatorio-anual .item-tab-rel-zas:nth-child(4) {
+        width:100%
+    }
+
+}
+@media only screen and (min-width: 768px) {
+
+    section#relatorio-anual-zas .tabela-relatorio-anual {
+        display: table;
+        width: 100%;
+        table-layout: fixed;
+        border-spacing: 15px;
+    }
+    section#relatorio-anual-zas .tabela-relatorio-anual .item-tab-rel-zas {
+        display: table-cell;
+        vertical-align:bottom;
+        text-align: left;
+    }
+    section#relatorio-anual-zas .tabela-relatorio-anual .item-tab-rel-zas:nth-child(1) {
+        width: 148px;
+    }
+    section#relatorio-anual-zas .tabela-relatorio-anual .item-tab-rel-zas:nth-child(4) {
+        width:50px;
+    }
+
+} 
+
+
+
+section#relatorio-anual-zas .tabela-relatorio-anual .item-tab-rel-zas:nth-child(2) h3 {
+    .text-fira-sans;
+    font-size: 2.7em;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #522969;
+}
+section#relatorio-anual-zas .tabela-relatorio-anual .item-tab-rel-zas:nth-child(3) p {
+    .text-fira-sans;
+    font-size: 1.2em;
+    font-weight: normal;
+    color: #522969;
+}
+
+ 
+/***************************************************************************
+****************************************************************************
+O Instituto - Relatório anual Zero a Seis - Fim
+
+****************************************************************************
+***************************************************************************/
+
+
+/***************************************************************************
+****************************************************************************
+O Instituto - Nossos Parceiros
+
+****************************************************************************
+***************************************************************************/
+section#nossos-parceiros h3 {
+    .text-fira-sans;
+    font-weight: bold;
+    color: #522969;
+    font-size: 2.5em;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 50px;
+}
+section#nossos-parceiros ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+section#nossos-parceiros ul li {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    text-align: center;
+}
+/***************************************************************************
+****************************************************************************
+O Instituto - Nossos Parceiros - Fim
+
+****************************************************************************
+***************************************************************************/
+
+
+
+
+
+
+
+
+
+/***************************************************************************
+****************************************************************************
+Primeira Infância
+
+****************************************************************************
+***************************************************************************/
+#sect-oque-se-desenvolve-primeira-infancia {
+    background-color: #bcb8da;
+}
+@media only screen and (min-width: 320px) {
+    #sect-oque-se-desenvolve-primeira-infancia .tab-matriz-sect-pi {
+        display: block;
+        width: 100%;
+        table-layout: fixed;
+        border-spacing: 15px;
+    }
+    #sect-oque-se-desenvolve-primeira-infancia .tab-matriz-sect-pi .item-tab-sect-pi {
+        /*display: table-cell;*/
+        vertical-align:middle;
+        text-align: left;
+    }
+    #sect-oque-se-desenvolve-primeira-infancia .tab-matriz-sect-pi .item-tab-sect-pi:nth-child(1) h3 {
+        .text-fira-sans;
+        font-weight: bold;
+        color: #522969;
+        font-size: 1.8em;
+        text-align: left;
+        margin:0;
+        padding: 0;
+        max-width: 263px;
+    }
+    #sect-oque-se-desenvolve-primeira-infancia .tab-matriz-sect-pi .item-tab-sect-pi:nth-child(2) {        
+        display: none;
+    } 
+
+    #sect-oque-se-desenvolve-primeira-infancia .tab-matriz-sect-pi .item-tab-sect-pi .sub-tabela {
+        display: block;
+        width: 100%;
+        table-layout: fixed;
+        border-spacing: 5px;
+        top:10px;
+        position: relative;
+        text-align: center;
+    }
+    #sect-oque-se-desenvolve-primeira-infancia .tab-matriz-sect-pi .item-tab-sect-pi .sub-tabela .item-sub-tab {
+        /*display: table-cell;*/
+        vertical-align:middle;
+        text-align: left;
+        /*white-space: nowrap;*/
+        .text-fira-sans;
+        font-weight: bold;
+        font-size: 0.8em;
+        color: #522969;
+        text-transform: uppercase;
+        padding:0 0 0 20px;
+    }
+    #sect-oque-se-desenvolve-primeira-infancia .tab-matriz-sect-pi .item-tab-sect-pi:nth-child(4) .cont-btn-banner {
+        position: relative;
+        top:-20px;
+        left:-120px;
+    }
+}
+@media only screen and (min-width: 992px) {
+    #sect-oque-se-desenvolve-primeira-infancia .tab-matriz-sect-pi {
+        display: table;
+        width: 100%;
+        table-layout: fixed;
+        border-spacing: 15px;
+    }
+    #sect-oque-se-desenvolve-primeira-infancia .tab-matriz-sect-pi .item-tab-sect-pi {
+        display: table-cell;
+        vertical-align:middle;
+        text-align: left;
+    }
+    #sect-oque-se-desenvolve-primeira-infancia .tab-matriz-sect-pi .item-tab-sect-pi:nth-child(1) h3 {
+        .text-fira-sans;
+        font-weight: bold;
+        color: #522969;
+        font-size: 1.8em;
+        text-align: right;
+        margin:0;
+        padding: 0;
+        max-width: 263px;
+    }
+    #sect-oque-se-desenvolve-primeira-infancia .tab-matriz-sect-pi .item-tab-sect-pi:nth-child(2) {
+        width: 24px;
+        display: table-cell;
+    }
+    
+    #sect-oque-se-desenvolve-primeira-infancia .tab-matriz-sect-pi .item-tab-sect-pi .sub-tabela {
+        display: table;
+        width: 100%;
+        table-layout: fixed;
+        border-spacing: 5px;
+        top:-20px;
+        position: relative;
+        text-align: center;
+    }
+    #sect-oque-se-desenvolve-primeira-infancia .tab-matriz-sect-pi .item-tab-sect-pi .sub-tabela .item-sub-tab {
+        display: table-cell;
+        vertical-align:middle;
+        text-align: left;
+        white-space: nowrap;
+        .text-fira-sans;
+        font-weight: bold;
+        font-size: 0.8em;
+        color: #522969;
+        text-transform: uppercase;
+        padding:0 0 0 20px;
+    }
+    #sect-oque-se-desenvolve-primeira-infancia .tab-matriz-sect-pi .item-tab-sect-pi:nth-child(4) .cont-btn-banner {
+        position: relative;
+        top:-20px;
+        left:0;
+    }
+}
+#sect-oque-se-desenvolve-primeira-infancia .tab-matriz-sect-pi .item-tab-sect-pi:nth-child(3) .ico-carater {
+    width: 46px;
+    height: 43px;
+    background-image: url(../images/ico-carater.gif);
+    display: inline-block;    
+}
+#sect-oque-se-desenvolve-primeira-infancia .tab-matriz-sect-pi .item-tab-sect-pi:nth-child(3) .ico-base {
+    width:47px;
+    height:39px;
+    background-image: url(../images/ico-base.gif);
+    display: inline-block;
+}
+#sect-oque-se-desenvolve-primeira-infancia .tab-matriz-sect-pi .item-tab-sect-pi:nth-child(3) .ico-cidadania {
+    width:41px;
+    height:44px;
+    background-image: url(../images/ico-cidadania.gif);
+    display: inline-block;
+}
+#sect-oque-se-desenvolve-primeira-infancia .tab-matriz-sect-pi .item-tab-sect-pi:nth-child(3) .ico-consciencia {
+    width:51px;
+    height:42px;
+    background-image: url(../images/ico-consciencia.gif);
+    display: inline-block;
+}
+#sect-oque-se-desenvolve-primeira-infancia .tab-matriz-sect-pi .item-tab-sect-pi .sub-tabela .item-sub-tab span {
+    position: relative;
+    bottom:-20px;
+    left:-15px;
+
+}
+
+
+
+
+/***************************************************************************
+****************************************************************************
+Primeira Infância - Section investimento na infancia
+
+****************************************************************************
+***************************************************************************/
+@media only screen and (min-width: 320px) {
+    #investimento-na-infancia .container .flut-moment {
+        position: relative;
+        top:0px;
+        right: 0;
+    }
+    #investimento-na-infancia .img-grafico img {
+        margin-top:150px;
+        max-width: 100%;
+    }
+}
+@media only screen and (min-width: 768px) {
+    #investimento-na-infancia .container .flut-moment {
+        position: absolute;
+        top:-250px;
+        right: 0;
+    }
+    #investimento-na-infancia .img-grafico img {
+        margin-top:150px;
+    }
+} //col-sm
+#investimento-na-infancia {
+    background: url(../images/bg-grafico-primeira-infancia.jpg) no-repeat top center fixed; 
+    -webkit-background-size: cover; 
+    -moz-background-size: cover; 
+    -o-background-size: cover; 
+    background-size: cover;
+    position: relative;
+}
+#investimento-na-infancia h3 {
+    .text-fira-sans;
+    font-weight: bold;
+    color: #522969;
+    font-size: 2.1em;
+    text-align: left;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+#investimento-na-infancia p {
+    .text-fira-sans;
+    color: #522969;
+    font-size: 1.0em;
+    margin:0;
+    padding: 0;
+}
+#investimento-na-infancia ul {
+    list-style-image: url(../images/ico-verificado.png);  
+    position: relative;  
+    margin-top:40px;
+}
+#investimento-na-infancia ul li:nth-child(odd) {          
+    clear:both; 
+    float:left; 
+    width:50%;  
+}
+#investimento-na-infancia .container {
+    position: relative;
+}
+/***************************************************************************
+****************************************************************************
+Primeira Infância - Section investimento na infancia - Fim
+
+****************************************************************************
+***************************************************************************/
+
+
+
+/***************************************************************************
+****************************************************************************
+Primeira Infância - Impacto ao investir na primeira infância
+
+****************************************************************************
+***************************************************************************/
+
+#impacto-ao-investir-na-primeira-infancia {
+    background: #f4f4f4;
+}
+#impacto-ao-investir-na-primeira-infancia h3 {
+    .text-fira-sans;
+    font-weight: bold;
+    color: #522969;
+    font-size: 2.1em;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 50px;
+}
+#impacto-ao-investir-na-primeira-infancia h4 {
+    .text-fira-sans;
+    font-weight: bold;
+    color: #522969;
+    font-size: 1.9em;
+}
+#impacto-ao-investir-na-primeira-infancia p {
+    .text-fira-sans;
+    font-weight: normal;
+    color: #522969;
+    font-size: 1.2em;
+}
+#impacto-ao-investir-na-primeira-infancia small {
+    .text-fira-sans;
+    font-weight: normal;
+    color: #522969;
+    font-size: 1em;
+    text-align: center;
+    margin-top:60px;
+    display: block;
+}
+
+/***************************************************************************
+****************************************************************************
+Primeira Infância - Impacto ao investir na primeira infância - Fim
+
+****************************************************************************
+***************************************************************************/
+
+
+
+
+
+/***************************************************************************
+****************************************************************************
+Projetos
+
+****************************************************************************
+***************************************************************************/
+#lista-de-projetos {}
+
+#lista-de-projetos img {
+    width: 100%;
+}
+#lista-de-projetos h4 {
+    color:#5c3672;
+    .text-fira-sans;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 1.7em;
+    margin: 0 0 15px 0;
+}
+#lista-de-projetos small {
+    color:#5c3672;
+    .text-fira-sans;
+    font-size: 0.9em;
+    display: block;
+    margin: 0 0 5px 0;
+}
+#lista-de-projetos small span {
+    color:#f8bf2c;
+    position: relative;
+    padding: 0 0 0 30px;
+}
+#lista-de-projetos small span::before {
+    content: "";
+    background-image: url(../images/tag.png);
+    display: block;
+    position: absolute;
+    width: 18px;
+    height: 10px;
+    left:10px;
+    top:4px;
+}
+#lista-de-projetos figcaption {
+    margin: 10px 0 0 0;
+    color:#5c3672;
+    .text-fira-sans;
+    font-size: 1em;
+    padding:0 0 60px 0;
+
+}
+#lista-de-projetos figure {
+    margin:0;
+    padding:0;
+}
+#lista-de-projetos .projeto-item {
+    cursor:pointer;
+    .tempoDeTransicao(0.2s); 
+}
+#lista-de-projetos .projeto-item:hover img {
+    -webkit-box-shadow: 0px 1px 15px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    0px 1px 15px 0px rgba(50, 50, 50, 0.75);
+    box-shadow:         0px 1px 15px 0px rgba(50, 50, 50, 0.75);
+    .tempoDeTransicao(0.2s); 
 }

@@ -3,8 +3,8 @@
 
 linkHome                = "default.asp"
 linkOInstituto          = "o-instituto.asp"
-linkPrimeiraInfancia    = ""
-linkProjetos            = ""
+linkPrimeiraInfancia    = "primeira-infancia.asp"
+linkProjetos            = "projetos.asp"
 linkBlog                = ""
 linkSejaParceiro        = ""
 linkContato             = ""

@@ -1,6 +1,3 @@
-
-
-
 <!-- #include file="__links.asp" -->
 
 <!doctype html>
@@ -296,188 +293,111 @@
             </section>
 
 
+            <section id="corpo-diretivo">
+                <div class="deco-separa-paginas amarelo-transparente"></div>
+                <h3 style="margin:0;padding:0;">Corpo Diretivo</h3>
 
-
-
-
-
-
-
-
-            <section id="sobre-o-trabalho-e-fundador">                
                 <div class="container">
-                    <div class="row">
-                        <div class="col-md-4 col-xs-12">
-                            <h1>Um trabalho de mais de 20 anos pela primeira infância.</h1>
-                            <p>João Figueiró foi pioneiro na apresentação da importância do tema no país. Com sua grande capacidade de expressão, ele acabou por instigar vários setores da sociedade para que viessem a desenvolver programas, planos e ações em benefício da criança brasileira. Para Figueró, o desenvolvimento da criança e a aplicação do conhecimento científico sobre a primeira infância são aspectos fundamentais para a promoção da saúde individual, coletiva e social, da ética e da redução da violência.</p>
-                            <a href="#" id="saiba-mais-sobre-o-fundador-link" class="link-texto">+ SAIBA MAIS SOBRE NOSSO FUNDADOR</a>
-                            <div class="clearfix"></div>
+                    <p class="text-center" style="margin:10px 0 40px 0;padding:0;">O Instituto Zero a Seis mantém estrutura de governança alinhada às mais reconhecidas recomendações para <br>uma gestão eficiente, ética e transparente.</p>
+
+                    <div class="tabela-matriz-corpo-dir">
+                        <div class="item-tab-matriz">
+                            <div class="tabela-corpo-der">
+                                <div class="item-tab">
+                                    <p>Diretoria executiva</p>
+                                </div>
+                                <div class="item-tab">
+                                    <img src="images/chave-amarela-transparente.png" alt="" >
+                                </div>
+                                <div class="item-tab">
+                                    <p>Karina Figueiró</p>
+                                </div>
+                            </div>
                         </div>
-                        <div class="col-md-8 col-xs-12">
-                            <a href="#" class="box">                                
-                                <img src="images/primeira-infancia.png" alt="Um trabalho de mais de 20 anos pela primeira infância">
-                                <div class="veja-o-video"></div>
-                                <div class="deco-camera-topo"><i class="fa fa-video-camera"></i></div>
-                                <div class="deco-play-video"><i class="fa fa-play"></i></div>
-                            </a>                            
+                        <div class="item-tab-matriz">
+                            <div class="tabela-corpo-der">
+                                <div class="item-tab">
+                                    <p>Conselho Curador</p>
+                                </div>
+                                <div class="item-tab">
+                                    <img src="images/chave-amarela-transparente.png" alt="" >
+                                </div>
+                                <div class="item-tab">
+                                    <p>Dimitrie Josif Gheorghiu (médico)<br>
+                                    George Winnik (professor)<br>
+                                    Ively Helena Giaquinto Taralli (psicóloga)<br>
+                                    Nair de Oliveira Pontes (psicóloga)<br>
+                                    Celia Cristina Whitaker (advogada)</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item-tab-matriz">
+                            <div class="tabela-corpo-der">
+                                <div class="item-tab">
+                                    <p>Conselho Fiscal</p>
+                                </div>
+                                <div class="item-tab">
+                                    <img src="images/chave-amarela-transparente.png" alt="" >
+                                </div>
+                                <div class="item-tab">
+                                    <p>Sandra Valente Battistella<br>
+                                    Bruna Iaconelli<br>
+                                    Henrique Schreurs</p>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
+
             </section>
 
 
 
-            <section id="nossas-areas-de-atuacao">
+            <section id="relatorio-anual-zas">
+                
+                <div class="container">
+                    <div class="col-xs-12 col-md-2"></div>
+                    <div class="col-xs-12 col-md-8">
+                        <div class="tabela-relatorio-anual">
+                            <div class="item-tab-rel-zas">
+                                <img src="images/relatorio-anual-zas.gif" alt="Relatório Anual ZAS">
+                            </div>
+                            <div class="item-tab-rel-zas">
+                                <h3>Relatório <br>Anual ZAS</h3>
+                            </div>
+                            <div class="item-tab-rel-zas">
+                                <p>Baixe o arquivo e confira <br>os nossos números.</p>
+                            </div>
+                            <div class="item-tab-rel-zas">
+                                <img src="images/baixar-relatorio-anual-zas.gif" alt="Baixar Relatório Anual ZAS">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-md-2"></div>
+                </div>
+            </section>
+
+
+            <section id="nossos-parceiros">
                 <div class="deco-separa-paginas roxo-transparente"></div>
+                <h3>Nossos Parceiros</h3>
                 <div class="container">
-                    <h3>NOSSAS ÁREAS DE ATUAÇÃO</h3>
-                    <p>Sensibilizamos a sociedade e promovemos projetos para os setores públicos e privados, ações direcionadas a pais, familiares, cuidadores e educadores, além de atuar em parceria com empreendedores sociais.</p>
-                    <div class="row">
-                        <div class="col-md-3 col-sm-6 col-xs-12">
-                            <a href="" id="politicas-publicas" title="">
-                                <img src="images/politicas-publicas-zero-a-seis.gif" alt="Políticas Públicas">
-                                <p>Políticas Públicas</p>
-                                <p>Atuamos na consultoria junto a gestores públicos para avaliar, inspirar, estruturar e implantar programas voltados à primeira infância em regiões, distritos ou municípios em todo o país.</p>
-                                <p><span><!-- seta --></span> Saiba mais</p>
-                            </a>
-                        </div>
-                        <div class="col-md-3 col-sm-6 col-xs-12">
-                            <a href="" id="empresas" title="">
-                                <img src="images/empresas-zero-a-seis.gif" alt="Políticas Públicas">
-                                <p>Empresas</p>
-                                <p>Repasse voluntário de recursos a projetos sociais de forma planejada e monitorada, com capacidade de gerar mudanças relevantes para o público envolvido (Investimento Social Privado).</p>
-                                <p><span><!-- seta --></span> Saiba mais</p>
-                            </a>
-                        </div>
-                        <div class="col-md-3 col-sm-6 col-xs-12">
-                            <a href="" id="pais-e-cuidadores" title="">
-                                <img src="images/pais-e-cuidadores-zero-a-seis.gif" alt="Políticas Públicas">
-                                <p>Pais e cuidadores</p>
-                                <p>Disseminamos informações para que pais, familiares, cuidadores e educadores se sintam mais seguros, acolhidos e orientados para cuidar melhor dos bebês e das crianças.</p>
-                                <p><span><!-- seta --></span> Saiba mais</p>
-                            </a>
-                        </div>
-                        <div class="col-md-3 col-sm-6 col-xs-12">
-                            <a href="" id="empreendedorismo-social" title="">
-                                <img src="images/empreendedorismo-social-zero-a-seis.gif" alt="Políticas Públicas">
-                                <p>Empreendedorismo social.</p>
-                                <p>Agregamos empreendedores sociais, produtos e serviços para que, possamos dialogar, compor soluções e fazer com que a causa seja priorizada.</p>
-                                <p><span><!-- seta --></span> Saiba mais</p>
-                            </a>
-                        </div>
-                    </div>
-                    
-                    <div class="cont-btn-banner" style="width:270px; margin:60px auto 0 auto;">
-                        <a href="" id="veja-todas-as-areas-de-atuacao" class="btn">
-                        <svg width="277" height="62">
-                            <defs>
-                                <linearGradient id="grad2">
-                                    <stop offset="0%" stop-color="#522969"/>
-                                    <stop offset="100%" stop-color="#522969" />
-                                </linearGradient>
-                            </defs>
-                            <rect x="5" y="10" rx="25" fill="none" stroke="url(#grad2)" width="266" height="50"></rect>
-                        </svg>                            
-                            <span style="color:#522969">Veja todos</span>
-                        </a>
-                    </div>
-
-                </div>
-            </section>            
-
-            <section id="premios-conquistados">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-3 col-xs-12">
-                            <div class="col-xs-12">
-                                <h3>prêmios conquistados pelos nossos projetos</h3>
-                                <p>Ao longo dos anos, o Instituto Zero a Seis desenvolveu diversos projetos que conquistaram importantes reconhecimentos nacionais e internacionais. Confira!</p>
-                            </div>
-                        </div>
-                        <div class="col-md-9 col-xs-12">
-                            <div class="col-md-6 col-xs-12">
-                                <a href="" id="premio-google" class="caixa-premios" title="">
-                                    <div class="col-md-5">
-                                        <img src="images/global-impact-awards-google.jpg" alt="Global Impact Awards">
-                                    </div>
-                                    <div class="col-md-7">
-                                        <div class="cont">
-                                            <p>Prêmio google | Brazil o Desafio de Impacto Social.</p>
-                                            <p>Desafio criado para apoiar ONGs que trabalham para solucionar problemas sociais por meio da tecnologia. Dentre as 751 propostas, nosso aplicativo ProBebê foi um dos quatro premiados.</p>
-                                            <p><span><!-- seta --></span> Saiba mais</p>
-                                        </div>
-                                    </div>                                  
-                                    <div class="clearfix"></div>
-                                </a>
-                            </div>
-                            <div class="col-md-6 col-xs-12">
-                                <a href="" id="premio-change-makers" class="caixa-premios" title="">
-                                    <div class="col-md-5">
-                                        <img src="images/change-makers.jpg" alt="Change Makers">
-                                    </div>
-                                    <div class="col-md-7">
-                                        <div class="cont">
-                                            <p>prêmio change makers 2014 - reinventando a aprendizagem.</p>
-                                            <p>O <strong>Projeto PUPA</strong>, recebeu o Prêmio Change Makers  2014 da LEGO Foundation e Ashoka, sendo considerado como um dos 10 mais relevantes projetos sociais do mundo.</p>
-                                            <p><span><!-- seta --></span> Saiba mais</p>
-                                        </div>
-                                    </div>                                 
-                                    <div class="clearfix"></div>                                   
-                                </a>
-                            </div>
-                        </div>                            
-                    </div>
-                </div>
-                <div class="clearfix"></div>   
-            </section>
-
-            <div class="deco-separa-paginas amarelo-transparente" style="margin-bottom:-33px;"></div>
-            <section id="confira-blog">                
-                <div class="container">
-                    <h3>Confira nosso blog</h3>
-                    <div class="row">
-                        <div class="col-md-4 col-sm-6 col-xs-12">
-                            <a href="" id="noticia-<%=idDaNoticia%>" title=""> <!-- precisa colocar a variável do ID da notícia -->
-                                <img src="images/foto-noticias-matriz.jpg" class="foto-noticia" alt="Lorem ipsnovortes lresmo varme.">
-                                <div class="box-noticias">
-                                    <div class="textos">
-                                        <p>Lorem ipsnovortes lresmo varme.</p>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi pharetra tempor nulla, ut pharetra nibh posuere et. Cras non metus luctus, fermentum diam ac, fermentum justo. Ut mollis scelerisque.</p>
-                                    </div>                                    
-                                </div>
-                                <b></b>
-                                <p><span><!-- seta --></span> Saiba mais</p>
-                            </a>
-                        </div>
-                        <div class="col-md-4 col-sm-6 col-xs-12">
-                            <a href="" id="noticia-<%=idDaNoticia%>" title=""> <!-- precisa colocar a variável do ID da notícia -->
-                                <img src="images/foto-noticias-matriz.jpg" class="foto-noticia" alt="Lorem ipsnovortes lresmo varme.">
-                                <div class="box-noticias">
-                                    <div class="textos">
-                                        <p>Lorem ipsnovortes lresmo varme.</p>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi pharetra tempor nulla, ut pharetra nibh posuere et. Cras non metus luctus, fermentum diam ac, fermentum justo. Ut mollis scelerisque.</p>
-                                    </div>                                    
-                                </div>
-                                <b></b>
-                                <p><span><!-- seta --></span> Saiba mais</p>
-                            </a>
-                        </div>
-                        <div class="col-md-4 col-sm-6 col-xs-12">
-                            <a href="" id="noticia-<%=idDaNoticia%>" title=""> <!-- precisa colocar a variável do ID da notícia -->
-                                <img src="images/foto-noticias-matriz.jpg" class="foto-noticia" alt="Lorem ipsnovortes lresmo varme.">
-                                <div class="box-noticias">
-                                    <div class="textos">
-                                        <p>Lorem ipsnovortes lresmo varme.</p>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi pharetra tempor nulla, ut pharetra nibh posuere et. Cras non metus luctus, fermentum diam ac, fermentum justo. Ut mollis scelerisque.</p>
-                                    </div>                                    
-                                </div>
-                                <b></b>
-                                <p><span><!-- seta --></span> Saiba mais</p>
-                            </a>
-                        </div>
-                    </div>
+                    <ul>
+                        <li><img src="images/parceiros/google.gif" alt="Google"></li>
+                        <li><img src="images/parceiros/elemidia.gif" alt="Elemidia"></li>
+                        <li><img src="images/parceiros/espm.gif" alt="ESPM Social"></li>
+                        <li><img src="images/parceiros/brancozulu.gif" alt="Brancozulu"></li>
+                        <li><img src="images/parceiros/nielsen.gif" alt="Nielsen"></li>
+                        <li><img src="images/parceiros/microsoft.gif" alt="Microsoft"></li>
+                        <li><img src="images/parceiros/mba.gif" alt="MBA Barbosa Mussnich Aragão"></li>
+                        <li><img src="images/parceiros/pupa.gif" alt="Pupa"></li>
+                    </ul>
                 </div>
             </section>
+
+
+
+
 
             <footer id="footer">
                 <div class="container">
