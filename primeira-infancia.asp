@@ -142,7 +142,8 @@
 
                         </div>
                     </div>
-                </div>            
+                </div>
+            <div id="investimento_na_infancia"></div>            
             </section>
 
             <section id="investimento-na-infancia">
@@ -182,6 +183,7 @@
                         <img src="images/taxa-de-retorno-grafico.png" alt="">
                     </div>
                 </div>
+            <div id="impacto_ao_investir_na_primeira_infancia"></div>
             </section>
 
             <section id="impacto-ao-investir-na-primeira-infancia" style="position:relative;z-index:2;padding-bottom:120px;">

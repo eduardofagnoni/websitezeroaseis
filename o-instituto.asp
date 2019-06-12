@@ -239,6 +239,8 @@
                         
                     </div>                        
                 </div>
+
+            <div id="inspiracoes_para_o_instituto_zero_a_seis"></div>
             </section>
 
             <section id="inspiracoes-para-o-instituto-zero-a-seis">
@@ -261,6 +263,7 @@
                         </figure>
                     </div>
                 </div>
+            <div id="corpo_diretivo"></div>
             </section>
 
 
@@ -319,13 +322,12 @@
                         </div>
                     </div>
                 </div>
-
+            <div id="relatorio_anual_zas"></div>
             </section>
 
 
 
-            <section id="relatorio-anual-zas">
-                
+            <section id="relatorio-anual-zas">                
                 <div class="container">
                     <div class="col-xs-12 col-md-2"></div>
                     <div class="col-xs-12 col-md-8">
@@ -346,6 +348,7 @@
                     </div>
                     <div class="col-xs-12 col-md-2"></div>
                 </div>
+            <div id="nossos_parceiros"></div>
             </section>
 
 

@@ -1,24 +1,24 @@
 <div class="col-md-2 col-xs-12"></div>
 <div class="col-md-2 col-xs-12">
     <a href="<%=linkOInstituto%>">Institucional</a>
-    <a href="">O Instituto ZAS</a>
+    <a href="<%=linkOInstituto%>">O Instituto ZAS</a>
     <a href="">Atuação</a>
-    <a href="">Inspiração</a>
-    <a href="">Corpo Diretivo</a>
-    <a href="">Relatório Anual</a>
-    <a href="">Parceiros</a>
+    <a href="<%=linkInspiracao%>">Inspiração</a>
+    <a href="<%=linkCorpoDiretivo%>">Corpo Diretivo</a>
+    <a href="<%=linkRelatorioAnual%>">Relatório Anual</a>
+    <a href="<%=linkParceiros%>">Parceiros</a>
 </div>
 <div class="col-md-2 col-xs-12">
     <a href="<%=linkPrimeiraInfancia%>">Primeira infância</a>
-    <a href="">A primeira infância</a>
-    <a href="">Porque investir</a>
-    <a href="">Impactos</a>
+    <a href="<%=linkPrimeiraInfancia%>">A primeira infância</a>
+    <a href="<%=linkPqInvestir%>">Porque investir</a>
+    <a href="<%=linkImpactos%>">Impactos</a>
 </div>
 <div class="col-md-2 col-xs-12">
     <a href="<%=linkProjetos%>">Projetos</a>
-    <a href="">Realizados</a>
+    <a href="<%=linkProjetos%>">Realizados</a>
     <!--<a href="">Em andamento</a>-->
-    <a href="">Prêmios</a>
+    <a href="<%=linkPremios%>">Prêmios</a>
 </div>
 <!--
 <div class="col-md-2 col-xs-12">
@@ -30,8 +30,8 @@
 -->
 <div class="col-md-2 col-xs-12">
     <a href="<%=linkSejaParceiro%>">Participe</a>
-    <a href="">Trabalhe conosco</a>
-    <a href="">Seja nosso parceiro</a>
+    <a href="<%=linkContato%>">Trabalhe conosco</a>
+    <a href="<%=linkSejaParceiro%>">Seja nosso parceiro</a>
     <!--<a href="">Contribua com o ZAS</a>-->
     <a href="<%=linkContato%>">Contato</a>
 </div>

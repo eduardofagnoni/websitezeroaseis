@@ -60,7 +60,7 @@
 		
 		'com autenticação'		 
 			'SERVIDOR DE SMTP 
-			objCDOSYSCon.Fields("http://schemas.microsoft.com/cdo/configuration/smtpserver") = "smtp.cervejarianacional.com.br" 	 
+			objCDOSYSCon.Fields("http://schemas.microsoft.com/cdo/configuration/smtpserver") = "" 	 
 			'PORTA PARA COMUNICAÇÃO COM O SERVIÇO DE SMTP 
 			objCDOSYSCon.Fields("http://schemas.microsoft.com/cdo/configuration/smtpserverport") = 587	 
 			'Utilização de SSl 
@@ -69,9 +69,9 @@
 			'ATIVAR RECURSO DE SMTP AUTENTICADO 
 			objCDOSYSCon.Fields("http://schemas.microsoft.com/cdo/configuration/smtpauthenticate") = 1 	 
 			'USU?RIO PARA SMTP AUTENTICADO 
-			objCDOSYSCon.Fields("http://schemas.microsoft.com/cdo/configuration/sendusername") = "naoresp@cervejarianacional.com.br" 	 
+			objCDOSYSCon.Fields("http://schemas.microsoft.com/cdo/configuration/sendusername") = "" 	 
 			'SENHA DO USUÁRIO PARA SMTP AUTENTICADO 
-			objCDOSYSCon.Fields("http://schemas.microsoft.com/cdo/configuration/sendpassword") = "Spt2051@!A32a!ndo3" 	 
+			objCDOSYSCon.Fields("http://schemas.microsoft.com/cdo/configuration/sendpassword") = "" 	 
 			'TEMPO DE TIMEOUT (EM SEGUNDOS) 
 			objCDOSYSCon.Fields("http://schemas.microsoft.com/cdo/configuration/smtpconnectiontimeout") = 60
 

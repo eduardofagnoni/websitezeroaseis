@@ -91,7 +91,7 @@
 
 
 
-            <section class="container textos-laterais pag-int-resp" style="padding-top:80px;padding-bottom:80px;"> 
+            <section class="container textos-laterais pag-int-resp" style="padding-top:80px;padding-bottom:80px;position:relative;z-index:1;"> 
                 <div class="container">
                     <div class="row">
                         <div class="col-xs-12 col-sm-8 col-md-9">
