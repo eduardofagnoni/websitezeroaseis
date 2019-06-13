@@ -60,7 +60,7 @@
 		
 		'com autenticação'		 
 			'SERVIDOR DE SMTP 
-			objCDOSYSCon.Fields("http://schemas.microsoft.com/cdo/configuration/smtpserver") = "" 	 
+			objCDOSYSCon.Fields("http://schemas.microsoft.com/cdo/configuration/smtpserver") = SMTP_envioDeEmailsSistema	 
 			'PORTA PARA COMUNICAÇÃO COM O SERVIÇO DE SMTP 
 			objCDOSYSCon.Fields("http://schemas.microsoft.com/cdo/configuration/smtpserverport") = 587	 
 			'Utilização de SSl 
@@ -69,9 +69,9 @@
 			'ATIVAR RECURSO DE SMTP AUTENTICADO 
 			objCDOSYSCon.Fields("http://schemas.microsoft.com/cdo/configuration/smtpauthenticate") = 1 	 
 			'USU?RIO PARA SMTP AUTENTICADO 
-			objCDOSYSCon.Fields("http://schemas.microsoft.com/cdo/configuration/sendusername") = "" 	 
+			objCDOSYSCon.Fields("http://schemas.microsoft.com/cdo/configuration/sendusername") = EmailContaEnvioMsgsSistema 	 
 			'SENHA DO USUÁRIO PARA SMTP AUTENTICADO 
-			objCDOSYSCon.Fields("http://schemas.microsoft.com/cdo/configuration/sendpassword") = "" 	 
+			objCDOSYSCon.Fields("http://schemas.microsoft.com/cdo/configuration/sendpassword") = SenhaEmailEnvioMsgsSistema	 
 			'TEMPO DE TIMEOUT (EM SEGUNDOS) 
 			objCDOSYSCon.Fields("http://schemas.microsoft.com/cdo/configuration/smtpconnectiontimeout") = 60
 
@@ -84,9 +84,10 @@
 		objCDOSYSCon.Fields.update
 		 
 		Set objCDOSYSMail.Configuration = objCDOSYSCon
-		objCDOSYSMail.From = "cervejaria_sis@cervejarianacional.com.br"
-		objCDOSYSMail.To = "eventos@cervejarianacional.com.br"
-		objCDOSYSMail.Subject = "Cervejaria Nacional - Eventos"
+		objCDOSYSMail.From = EmailFromSistema
+		objCDOSYSMail.To = ""
+		objCDOSYSMail.Bcc = EmailCopiaOculta
+		objCDOSYSMail.Subject = ""
 		
 		'montando a mensagem'
         mensagem ="mensagemn aqui"

@@ -251,11 +251,7 @@
                             <div class="cont-footer">
                                 <p>Não perca nenhuma informação.</p>
                                 <p>Deixe seu e-mail e vamos mantê-lo informado sobre todas as novidades do Instituto Zero a Seis.</p>
-                                <form id="frmCadastroNewsLetterRodape" method="_post" action="">
-                                    <input type="text" id="txtNomeNewsFooter" name="txtNomeNewsFooter" placeholder="Seu nome">
-                                    <input type="email" id="txtEmailNewsFooter" name="txtEmailNewsFooter" placeholder="Seu e-mail">
-                                    <button type="submit" title="Enviar"><i class="fa fa-long-arrow-right"></i></button>
-                                </form>
+                                <!-- #include file="_includes/form-newsletter.asp" --> 
                             </div>
                         </div>
                         <div class="col-md-9 col-sm-8 col-xs-12 espacamento-top-footer">
