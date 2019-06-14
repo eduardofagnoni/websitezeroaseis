@@ -3,6 +3,9 @@
 <!doctype html>
 <html lang="pt-br">
     <head>
+
+        
+
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -17,9 +20,7 @@
         <!-- Fav and touch icons -->
         <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
         <link rel="icon" href="favicon.ico" type="image/x-icon">
-
-        <!-- Fonts -->
-        <link href="https://fonts.googleapis.com/css?family=Fira+Sans:400,700|Ubuntu:300,400,700" rel="stylesheet">
+        
 
         <meta name="application-name" content=""/>
         <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/ico/apple-touch-icon-144-precomposed.png">
@@ -28,20 +29,13 @@
         <link rel="apple-touch-icon-precomposed" href="assets/ico/apple-touch-icon-57-precomposed.png">
         <link rel="shortcut icon" href="assets/ico/favicon.png">
 
+        <!-- CSS -->
         <link rel="stylesheet" href="css/normalize.css">
-        <link rel="stylesheet" href="bootstrap/css/bootstrap.css"> 
-
-        <!-- Font Awesome -->
-		<link href="vendors/font-awesome/css/font-awesome.min.css" rel="stylesheet">		 
-
-        <link rel="stylesheet" href="stylesheet/styles.css">
+        <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
+        <link rel="stylesheet" href="stylesheet/styles.min.css">
         <link rel="stylesheet" href="stylesheet/styles-responsividade.css">
-        <link rel="stylesheet" href="stylesheet/styles-botoneira.css">
-
-        <link rel="stylesheet" href="vendors/bxSlider/jquery.bxslider.css">
-        
+        <link rel="stylesheet" href="stylesheet/styles-botoneira.css">        
         <script src="js/vendor/modernizr-2.8.3.min.js"></script>
-
     </head>
     <body>
 
@@ -400,6 +394,15 @@
                 </div>
             </div>
         </div>
+
+
+        <!-- Fonts -->
+        <link href="https://fonts.googleapis.com/css?family=Fira+Sans:400,700|Ubuntu:300,400,700" rel="stylesheet">
+        <!-- Font Awesome -->
+		<link href="vendors/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="vendors/bxSlider/jquery.bxslider.css">
+
+        
 
         
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>

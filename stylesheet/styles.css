@@ -1985,8 +1985,12 @@ Projetos - internas
 ****************************************************************************
 ***************************************************************************/
 /*-----------------------------------------------
-	Interna de responsabilidade
+	Interna de projetos
 -----------------------------------------------*/
+.carousel img {
+  margin: 0;
+  padding: 0;
+}
 section.pag-int-resp aside {
   overflow: hidden;
 }
@@ -2041,8 +2045,9 @@ section.pag-int-resp img {
 }
 section.pag-int-resp p {
   font-family: 'Ubuntu', sans-serif;
-  font-size: 1.4em;
+  font-size: 1.1em;
   color: #5c3672;
+  margin: 25px 0;
 }
 section.pag-int-resp ol {
   list-style: none;
@@ -2078,8 +2083,9 @@ section.pag-int-resp ol li:hover > small::after {
   transition: 0.2s ease-in-out;
 }
 section.pag-int-resp ol li h5 {
-  font-size: 2.3em;
+  font-size: 2em;
   font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
   color: #5c3672;
   margin: 0;
   padding: 0;
@@ -2143,6 +2149,12 @@ Contato
 #fale-conosco {
   background: #f4f4f4;
   padding-bottom: 80px;
+}
+#fale-conosco p {
+  color: #5c3672;
+  text-transform: uppercase;
+  font-family: 'Fira Sans', sans-serif;
+  font-size: 0.9em;
 }
 @media only screen and (min-width: 320px) {
   .tab-fale-conosco {

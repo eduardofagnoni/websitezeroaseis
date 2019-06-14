@@ -92,7 +92,7 @@
                 <div class="container tab-fale-conosco">
                     <div class="item-tab-fale-conosco">
 
-                        <form id="frmFaleConosco" method="POST" action="__enviar_arquivo.asp">
+                        <form id="frmFaleConosco" method="POST" action="__enviar_arquivo.asp?tipo=1">
                             <div class="col-md-6 col-xs-12">
                                 <div class="form-group">
                                     <label for="txtAssunto">Assunto</label>
@@ -113,7 +113,7 @@
                             <div class="col-md-6 col-xs-12">
                                 <div class="form-group">
                                     <label for="txtMsg">Mensagem</label>
-                                    <textarea name="" id="" class="form-control" placeholder="Digite suas mensagens"></textarea>
+                                    <textarea name="txtMsg" id="txtMsg" class="form-control" placeholder="Digite suas mensagens"></textarea>
                                 </div>
                                 
                                 <div class="cont-btn-banner" style="float:right">

@@ -94,86 +94,34 @@
 
                     <div class="row">
                         <div class="col-xs-12 col-md-6">
-                            <div class="projeto-item" onclick="location.href='projeto-interna.asp'">
-                                <h4>projeto pupa</h4>
-                                <small>28.07.2018 <span>empresas</span></small>
+                            <div class="projeto-item" onclick="location.href='a-primeira-infancia-e-a-que-fica.asp'">
+                                <h4>A primeira infância é a que fica</h4>
+                                <small>xx.xx.xxxx <span>Políticas públicas</span></small>
                                 <figure>
-                                    <img src="images/foto-projeto-marcacao.jpg" alt="">
+                                    <img src="images/projetos/a-primeira-infancia-e-a-que-fica/a-primeira-infancia-e-a-que-fica.jpg" alt="">
                                     <figcaption>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ornare, ante eget volutpat sagittis, dolor ex suscipit ipsum, interdum mollis est orci ut elit. Vivamus elit augue, sagittis ut congue a, auctor a nunc. 
+                                    O programa proporciona suporte técnico e formação para a implantação de ações nos municípios que darão concretude aos benefícios que serão construídos em favor de seus pequenos cidadãos. 
                                     </figcaption>
                                 </figure>
                             </div>                            
                         </div>
                         <div class="col-xs-12 col-md-6">
-                            <div class="projeto-item">
-                                <h4>projeto pupa</h4>
-                                <small>28.07.2018 <span>empresas</span></small>
+                            <div class="projeto-item" onclick="location.href='zas-cuidar.asp'">
+                                <h4>ZAS Cuidar</h4>
+                                <small>xx.xx.xxxx <span>Políticas públicas</span></small>
                                 <figure>
-                                    <img src="images/foto-projeto-marcacao.jpg" alt="">
+                                    <img src="images/projetos/zas-cuidar/zas-cuidar.jpg" alt="">
                                     <figcaption>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ornare, ante eget volutpat sagittis, dolor ex suscipit ipsum, interdum mollis est orci ut elit. Vivamus elit augue, sagittis ut congue a, auctor a nunc. 
+                                    Crianças pequenas dependem dos adultos para se alimentar, se proteger e aprender.  
                                     </figcaption>
                                 </figure>
                             </div>
                         </div>
                     </div>
 
-                    <div class="row">
-                        <div class="col-xs-12 col-md-6">
-                            <div class="projeto-item">
-                                <h4>projeto pupa</h4>
-                                <small>28.07.2018 <span>empresas</span></small>
-                                <figure>
-                                    <img src="images/foto-projeto-marcacao.jpg" alt="">
-                                    <figcaption>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ornare, ante eget volutpat sagittis, dolor ex suscipit ipsum, interdum mollis est orci ut elit. Vivamus elit augue, sagittis ut congue a, auctor a nunc. 
-                                    </figcaption>
-                                </figure>
-                            </div>
-                        </div>
-                        <div class="col-xs-12 col-md-6">
-                            <div class="projeto-item">
-                                <h4>projeto pupa</h4>
-                                <small>28.07.2018 <span>empresas</span></small>
-                                <figure>
-                                    <img src="images/foto-projeto-marcacao.jpg" alt="">
-                                    <figcaption>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ornare, ante eget volutpat sagittis, dolor ex suscipit ipsum, interdum mollis est orci ut elit. Vivamus elit augue, sagittis ut congue a, auctor a nunc. 
-                                    </figcaption>
-                                </figure>
-                            </div>
-                        </div>
-                    </div>
+                    
 
-                    <div class="row">
-                        <div class="col-xs-12 col-md-6">
-                            <div class="projeto-item">
-                                <h4>projeto pupa</h4>
-                                <small>28.07.2018 <span>empresas</span></small>
-                                <figure>
-                                    <img src="images/foto-projeto-marcacao.jpg" alt="">
-                                    <figcaption>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ornare, ante eget volutpat sagittis, dolor ex suscipit ipsum, interdum mollis est orci ut elit. Vivamus elit augue, sagittis ut congue a, auctor a nunc. 
-                                    </figcaption>
-                                </figure>
-                            </div>
-                        </div>
-                        <!--
-                        <div class="col-xs-12 col-md-6">
-                            <div class="projeto-item">
-                                <h4>projeto pupa</h4>
-                                <small>28.07.2018 <span>empresas</span></small>
-                                <figure>
-                                    <img src="images/foto-projeto-marcacao.jpg" alt="">
-                                    <figcaption>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ornare, ante eget volutpat sagittis, dolor ex suscipit ipsum, interdum mollis est orci ut elit. Vivamus elit augue, sagittis ut congue a, auctor a nunc. 
-                                    </figcaption>
-                                </figure>
-                            </div>
-                        </div>
-                        -->                    
-                    </div>                
+                                   
                 </div>
             <div id="premios_conquistados"></div>                   
             </section> 
