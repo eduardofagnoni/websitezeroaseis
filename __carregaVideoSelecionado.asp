@@ -17,11 +17,11 @@ id = request.querystring("id")
 
 Select Case id
     Case 1
-        video = "3cME3vK1aaQ"
+        video = "7x2f5f_bN78"
     Case 2
-        video = "ClxhpteWOU4"
+        video = "7x2f5f_bN78"
     Case 3
-        video = "Vm8VrLiuWOo"
+        video = "7x2f5f_bN78"
     Case 4
         video = "Vm8VrLiuWOo"
     Case 5

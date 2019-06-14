@@ -117,7 +117,7 @@
                                 </div>
                                 
                                 <div class="cont-btn-banner" style="float:right">
-                                    <a href="" class="btn" onClick="document.getElementById('frmFaleConosco').submit();">
+                                    <a href="javascript:;" class="btn" onClick="document.getElementById('frmFaleConosco').submit();">
                                     <svg width="277" height="62">
                                         <defs>
                                             <linearGradient id="grad2">
