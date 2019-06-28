@@ -84,6 +84,7 @@
                         nos primeiros anos de vida”.<br>
                         <small style="font-size:0.5em">Conheça o Dr. João Augusto Figueiró, nosso fundador.</small></p>
 
+                        <!--
                         <div class="cont-btn-banner">
                             <a href="http://google.com" class="btn">
                                 <svg width="277" height="62">
@@ -98,6 +99,8 @@
                                 <span>Saiba mais</span>
                             </a>
                         </div>
+                        -->
+
                     </div>
                 </li>
 
@@ -108,7 +111,7 @@
                         um futuro melhor.</strong></p>
 
                         <div class="cont-btn-banner">
-                            <a href="http://google.com" class="btn">
+                            <a href="o-instituto.asp" class="btn">
                             <svg width="277" height="62">
                                 <defs>
                                     <linearGradient id="grad1">
@@ -132,7 +135,7 @@
                         futura de 7 dólares.</p>
 
                         <div class="cont-btn-banner">
-                            <a href="http://google.com" class="btn">
+                            <a href="primeira-infancia.asp" class="btn">
                             <svg width="277" height="62">
                                 <defs>
                                     <linearGradient id="grad2">
@@ -162,11 +165,11 @@
                 <div class="row">
                     <div class="col-md-4 col-sm-4 col-xs-12">
                         <div class="deco-amarelo-destaques"></div>
-                        <h2 class="titulo-modelo-1">Investir na primeira infância é investir no futuro.</h2>
+                        <h2 class="titulo-modelo-1">FOCO NA CRIANÇA, DESDE A GESTAÇÃO ATÉ OS 6 ANOS DE IDADE.</h2>
                     </div>
                     <div class="col-md-4 col-sm-4 col-xs-12">
                         <div class="deco-amarelo-destaques"></div>
-                        <h2 class="titulo-modelo-1">Um trabalho de mais de 15 anos pela Primeira Infância.</h2>
+                        <h2 class="titulo-modelo-1">PRECURSOR DE TRABALHOS PELA PRIMEIRA INFÂNCIA NO PAÍS.</h2>
                     </div>
                     <div class="col-md-4 col-sm-4 col-xs-12">
                         <div class="deco-amarelo-destaques"></div>
@@ -200,7 +203,7 @@
                 <div class="deco-separa-paginas roxo-transparente"></div>
                 <div class="container">
                     <h3>NOSSAS ÁREAS DE ATUAÇÃO</h3>
-                    <p>Sensibilizamos a sociedade e promovemos projetos para os setores públicos e privados, ações direcionadas a pais, familiares, cuidadores e educadores, além de atuar em parceria com empreendedores sociais.</p>
+                    <p>Sensibilizamos a sociedade e produzimos projetos para os setores públicos e privados, ações direcionadas a pais, familiares, cuidadores e educadores, além de atuar em parceria com empreendedores sociais.</p>
                     <div class="row">
                         <div class="col-md-3 col-sm-6 col-xs-12">
                             <a href="<%=linkProjetos%>" id="politicas-publicas" title="">
@@ -214,7 +217,7 @@
                             <a href="<%=linkProjetos%>" id="empresas" title="">
                                 <img src="images/empresas-zero-a-seis.gif" alt="Políticas Públicas">
                                 <p>Empresas</p>
-                                <p>Repasse voluntário de recursos a projetos sociais de forma planejada e monitorada, com capacidade de gerar mudanças relevantes para o público envolvido (Investimento Social Privado).</p>
+                                <p>Repasse voluntário de recursos a projetos sociais de forma planejada e monitorada, com capacidade de gerar mudanças relevantes para o público envolvido (investimento social privado).</p>
                                 <p><span><!-- seta --></span> Saiba mais</p>
                             </a>
                         </div>
@@ -260,7 +263,7 @@
                         <div class="col-md-3 col-xs-12">
                             <div class="col-xs-12">
                                 <h3>prêmios conquistados pelos nossos projetos</h3>
-                                <p>Ao longo dos anos, o Instituto Zero a Seis desenvolveu diversos projetos que conquistaram importantes reconhecimentos nacionais e internacionais. Confira!</p>
+                                <p>O Instituto Zero a Seis desenvolveu diversos projetos que conquistaram importantes reconhecimentos nacionais e internacionais. Confira!</p>
                             </div>
                         </div>
                         <div class="col-md-9 col-xs-12">
@@ -272,8 +275,8 @@
                                     <div class="col-md-7">
                                         <div class="cont">
                                             <p>Prêmio google | Brazil o Desafio de Impacto Social.</p>
-                                            <p>Desafio criado para apoiar ONGs que trabalham para solucionar problemas sociais por meio da tecnologia. Dentre as 751 propostas, nosso aplicativo ProBebê foi um dos quatro premiados.</p>
-                                            <p><span><!-- seta --></span> Saiba mais</p>
+                                            <p>Desafio criado para apoiar ONGs que trabalham visando solucionar problemas sociais por meio da tecnologia. Dentre as 751 propostas, nosso aplicativo ProBebê foi um dos quatro premiados.</p>
+                                            <!--<p><span></span> Saiba mais</p>-->
                                         </div>
                                     </div>                                  
                                     <div class="clearfix"></div>
@@ -288,7 +291,7 @@
                                         <div class="cont">
                                             <p>prêmio change makers 2014 - reinventando a aprendizagem.</p>
                                             <p>O <strong>Projeto PUPA</strong>, recebeu o Prêmio Change Makers  2014 da LEGO Foundation e Ashoka, sendo considerado como um dos 10 mais relevantes projetos sociais do mundo.</p>
-                                            <p><span><!-- seta --></span> Saiba mais</p>
+                                            <!--<p><span></span> Saiba mais</p>-->
                                         </div>
                                     </div>                                 
                                     <div class="clearfix"></div>                                   

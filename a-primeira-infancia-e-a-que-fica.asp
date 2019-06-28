@@ -106,7 +106,7 @@
                     <div class="descritivo-banner-interno">
                         <div class="deco-amarelo-destaques"></div>
                         <h1 style="color:#5c3672;">Projetos</h1>
-                        <p class="paragrafo-1" style="color:#5c3672;">Acreditamos que cuidar, estimular, orientar e proteger as crianças é a forma mais eficaz para compor uma sociedade mais justa e equilibrada. Para isso, promovemos projetos que contribuem para conservar e melhorar os benefícios da Primeira Infância, voltados para <strong>Políticas Públicas, Pais e Cuidadores, Empresas e Empreendedorismo Social.</strong></p>
+                        <p class="paragrafo-1" style="color:#5c3672;">Acreditamos que cuidar, estimular, orientar e proteger nossas crianças é a forma mais eficaz para compor uma sociedade mais justa e equilibrada. Para isso, elaboramos projetos tanto para os setores públicos como privados, ações direcionadas a pais, familiares, cuidadores e educadores, propostas voltadas às empresas, além de atuar em parceria com empreendedores sociais.</p>
                     </div>
                 </div>
             </div>   

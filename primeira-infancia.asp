@@ -82,8 +82,9 @@
                     <div class="descritivo-banner-interno">
                         <div class="deco-amarelo-destaques"></div>
                         <h1 style="color:#5c3672;">a Primeira Infância</h1>
-                        <p class="paragrafo-1" style="color:#5c3672;">Corresponde ao período que vai desde a concepção do bebê, sua gestação, até os seis anos de idade da criança. É etapa fundamental para o desenvolvimento de qualquer pessoa e as experiências desse período são levadas para o resto da vida.</p>
+                        <p class="paragrafo-1" style="color:#5c3672;">Corresponde ao período que vai desde a concepção do bebê, sua gestação, até os 6 anos de idade da criança. É etapa fundamental para o desenvolvimento de qualquer pessoa e as experiências desse período são levadas para o resto da vida.</p>
                         
+                        <!--
                         <div class="cont-btn-banner" style="width:270px; margin:60px auto 0 auto;">
                             <a href="" id="veja-todas-as-areas-de-atuacao" class="btn">
                             <svg width="277" height="62">
@@ -98,6 +99,8 @@
                                 <span style="color:#f8bf2c">Saiba Mais</span>
                             </a>
                         </div>
+                        -->
+
                         <div class="clearfix"></div>
                     </div>
                 </div>
@@ -124,6 +127,7 @@
                         </div>
                         <div class="item-tab-sect-pi">
 
+                            <!--
                             <div class="cont-btn-banner" style="width:50px; margin:60px auto 0 auto;">
                                 <a href="" id="veja-todas-as-areas-de-atuacao" class="btn">
                                 <svg width="277" height="62">
@@ -138,6 +142,7 @@
                                     <span style="color:#522969">Saiba Mais</span>
                                 </a>
                             </div>
+                            -->
                             <div class="clearfix"></div>
 
                         </div>
@@ -151,7 +156,7 @@
                     <div class="col-xs-12 col-md-6">
                         <div class="deco-roxo-destaques" style="margin-left:0;"></div>
                         <h3>Criamos um futuro melhor investindo na infância.</h3>
-                        <p>Não investir na criança, nessa fase da vida, é um dos maiores causadores de problemas sociais futuros, segundo o economista ganhador do prêmio Nobel, James Heckman. Investir no desenvolvimento de uma criança apenas na educação formal custa o dobro do dinheiro que seria usado no ensino infantil, de 0 a 5 anos. <strong>Cada 1 dólar investido na Primeira Infância gera uma economia futura de 7 dólares em:</strong></p>
+                        <p>Não investir na criança, nessa fase da vida, é um dos maiores causadores de problemas sociais futuros, segundo o economista ganhador do prêmio Nobel, James Heckman. O Banco Interamericano de Desenvolvimento (BID) demonstra que 1 dólar investido durante a primeira infância gera economia de 7 dólares em:</strong></p>
                         <ul>
                             <li>Assitência social</li>
                             <li>Atendimento a doenças mentais</li>

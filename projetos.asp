@@ -82,7 +82,7 @@
                     <div class="descritivo-banner-interno">
                         <div class="deco-amarelo-destaques"></div>
                         <h1 style="color:#5c3672;">Projetos</h1>
-                        <p class="paragrafo-1" style="color:#5c3672;">Acreditamos que cuidar, estimular, orientar e proteger as crianças é a forma mais eficaz para compor uma sociedade mais justa e equilibrada. Para isso, promovemos projetos que contribuem para conservar e melhorar os benefícios da Primeira Infância, voltados para <strong>Políticas Públicas, Pais e Cuidadores, Empresas e Empreendedorismo Social.</strong></p>
+                        <p class="paragrafo-1" style="color:#5c3672;">Acreditamos que cuidar, estimular, orientar e proteger nossas crianças é a forma mais eficaz para compor uma sociedade mais justa e equilibrada. Para isso, elaboramos projetos tanto para os setores públicos como privados, ações direcionadas a pais, familiares, cuidadores e educadores, propostas voltadas às empresas, além de atuar em parceria com empreendedores sociais.</p>
                     </div>
                 </div>
             </div>   
@@ -96,11 +96,11 @@
                         <div class="col-xs-12 col-md-6">
                             <div class="projeto-item" onclick="location.href='a-primeira-infancia-e-a-que-fica.asp'">
                                 <h4>A primeira infância é a que fica</h4>
-                                <small>xx.xx.xxxx <span>Políticas públicas</span></small>
+                                <small><span>Políticas públicas</span></small>
                                 <figure>
                                     <img src="images/projetos/a-primeira-infancia-e-a-que-fica/a-primeira-infancia-e-a-que-fica.jpg" alt="">
                                     <figcaption>
-                                    O programa proporciona suporte técnico e formação para a implantação de ações nos municípios que darão concretude aos benefícios que serão construídos em favor de seus pequenos cidadãos. 
+                                    O programa proporciona suporte técnico e de formação para a implantação de ações nos municípios que darão concretude aos benefícios que serão construídos em favor de seus pequenos cidadãos. 
                                     </figcaption>
                                 </figure>
                             </div>                            
@@ -108,7 +108,7 @@
                         <div class="col-xs-12 col-md-6">
                             <div class="projeto-item" onclick="location.href='zas-cuidar.asp'">
                                 <h4>ZAS Cuidar</h4>
-                                <small>xx.xx.xxxx <span>Políticas públicas</span></small>
+                                <small><span>Políticas públicas</span></small>
                                 <figure>
                                     <img src="images/projetos/zas-cuidar/zas-cuidar.jpg" alt="">
                                     <figcaption>
@@ -131,7 +131,7 @@
                 <div class="container">
 
                     <h3 style="text-transform:uppercase; text-align:left; font-weight:normal; float:left"><strong>prêmios conquistados </strong><br>pelos nossos projetos</h3>
-                    <p style="text-align:left;padding-top:30px;">Ao longo dos anos, o Instituto Zero a Seis desenvolveu diversos projetos que conquistaram importantes reconhecimentos nacionais e internacionais. Confira!</p>
+                    <p style="text-align:left;padding-top:30px;">O Instituto Zero a Seis desenvolveu diversos projetos que conquistaram importantes reconhecimentos nacionais e internacionais. Confira!</p>
 
                     <div class="clearfix"></div>
 
@@ -144,9 +144,9 @@
                                     </div>
                                     <div class="col-md-8">
                                         <div class="cont">
-                                            <p>Spirit of Peace and Prosperity Summit - 2018 - ONU</p>
-                                            <p>Conferência internacional anual de alto nível, realizada na matriz das Nações Unidas, em Nova Iorque, conferiu uma menção honrosa póstuma ao Dr. João Augusto Figueiró.</p>
-                                            <p><span><!-- seta --></span> Saiba mais</p>
+                                            <p>PRÊMIO ENTREGUE NA ONU</p>
+                                            <p>Conferência internacional anual de alto nível, realizada na matriz das Nações Unidas, em Nova Iorque, conferiu menção honrosa póstuma ao Dr. João Augusto Figueiró.</p>
+                                            <!--<p><span></span> Saiba mais</p>-->
                                         </div>
                                     </div>                                  
                                     <div class="clearfix"></div>
@@ -160,8 +160,8 @@
                                     <div class="col-md-8">
                                         <div class="cont">
                                             <p>Prêmio google | Brazil o Desafio de Impacto Social.</p>
-                                            <p>Desafio criado para apoiar ONGs que trabalham para solucionar problemas sociais por meio da tecnologia. Dentre as 751 propostas, nosso aplicativo ProBebê foi um dos quatro premiados.</p>
-                                            <p><span><!-- seta --></span> Saiba mais</p>
+                                            <p>Desafio criado para apoiar ONGs que trabalham visando solucionar problemas sociais por meio da tecnologia. Dentre as 751 propostas, nosso aplicativo ProBebê foi um dos quatro premiados.</p>
+                                            <!--<p><span></span> Saiba mais</p>-->
                                         </div>
                                     </div>                                  
                                     <div class="clearfix"></div>
@@ -176,7 +176,7 @@
                                         <div class="cont">
                                             <p>prêmio change makers 2014 - reinventando a aprendizagem.</p>
                                             <p>O <strong>Projeto PUPA</strong>, recebeu o Prêmio Change Makers  2014 da LEGO Foundation e Ashoka, sendo considerado como um dos 10 mais relevantes projetos sociais do mundo.</p>
-                                            <p><span><!-- seta --></span> Saiba mais</p>
+                                            <!--<p><span></span> Saiba mais</p>-->
                                         </div>
                                     </div>                                 
                                     <div class="clearfix"></div>                                   

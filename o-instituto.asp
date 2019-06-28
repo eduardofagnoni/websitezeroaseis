@@ -85,11 +85,11 @@
                     <div class="descritivo-banner-interno">
 
                         <div class="deco-amarelo-destaques"></div>
-                        <h1>O Instituto Zero a Seis</h1>
-                        <p class="paragrafo-1">Criado em 2006, o Instituto Zero a Seis é uma organização apartidária, humanitária e sem fins lucrativos, que acredita na construção de uma sociedade melhor por meio da atenção em cuidado com a primeira infância.</p>
-                        <p class="paragrafo-2">Nossos projetos são focados na comunicação, no desenvolvimento e na implementação de solucões para a primeira infância, a fim de promover mobilização social e mudança cultural de paradigmas e valores, rumo aos fundamentos da cultura da paz, preconizada pela ONU e suas agências.</p>
+                        <h1>Instituto Zero a Seis</h1>
+                        <p class="paragrafo-1">Criado em 2006, o ZAS é organização pioneira no país na causa pela primeira infância, pois acredita que a construção de uma sociedade melhor se dá por meio da atenção prioritária às crianças, desde o período gestacional até os 6 anos de idade.</p>
+                        <p class="paragrafo-2">Com projetos focados na comunicação, no desenvolvimento e na implementação de soluções para a primeira infância, visa promover mobilização social e mudança cultural de paradigmas e valores, interagindo com lideranças públicas e privadas, pais, familiares e cuidadores em favor das crianças brasileiras.</p>
                         <div class="cont-btn-banner" style="width:270px; margin:60px auto 0 auto;">
-                            <a href="" id="veja-todas-as-areas-de-atuacao" class="btn">
+                            <a href="projetos.asp" id="veja-todas-as-areas-de-atuacao" class="btn">
                             <svg width="277" height="62">
                                 <defs>
                                     <linearGradient id="grad2">
@@ -115,18 +115,18 @@
                     <div class="row">
                         <div class="col-md-4 col-sm-4 col-xs-12 objetivos-do-instituto">
                             <div class="deco-amarelo-destaques"></div>
-                            <h2 class="titulo-modelo-1">O ZAS é uma organização humanitária, apartidária e sem fins lucrativos.</h2>
-                            <p>Investimos na primeira infância para construir um futuro melhor.</p>
+                            <h2 class="titulo-modelo-1">PRIMEIRA INFÂNCIA É NOSSA CAUSA.</h2>
+                            <p>O Instituto Zero a Seis tem como foco de seu trabalho a criança de 0 a 6 anos de idade.</p>
                         </div>
                         <div class="col-md-4 col-sm-4 col-xs-12 objetivos-do-instituto">
                             <div class="deco-amarelo-destaques"></div>
-                            <h2 class="titulo-modelo-1">Projetos de mobilização social.</h2>
-                            <p>Focados na comunicação, no desenvolviemnto e implementação de soluções a fim de promover mudança cultural de paradigmas e valores.</p>
+                            <h2 class="titulo-modelo-1">PROJETOS DE MOBILIZAÇÃO SOCIAL.</h2>
+                            <p>Nosso objetivo é que toda criança na primeira infância possua condições necessárias ao seu pleno desenvolvimento.</p>
                         </div>
                         <div class="col-md-4 col-sm-4 col-xs-12 objetivos-do-instituto">
                             <div class="deco-amarelo-destaques"></div>
-                            <h2 class="titulo-modelo-1">conStruir uma sociedade melhor por meio da atenção com a primeira infância.</h2>
-                            <p>Esse é o principal objetivo do Zero a Seis.</p>
+                            <h2 class="titulo-modelo-1">PRINCIPAL OBJETIVO DO ZAS</h2>
+                            <p>Construir uma sociedade melhor por meio da atenção com a primeira infância.</p>
                         </div>
                     </div>
                 </div>
@@ -137,10 +137,11 @@
                     <div class="row">
                         <div class="col-md-6 col-sm-6 col-xs-12">
                             <h3>NOSSO PROPÓSITO</h3>
-                            <p>Nossa proposta está focada na comunicação, no desenvolvimento e na implementação de soluções para a primeira infância, a fim de proporcionar conhecimento e promover mobilização social e mudança cultural de paradigmas e de valores.</p>
+                            <p>Atuar em favor das crianças, desde a concepção até 6 anos de idade, para que tenham garantidas as condições básicas de vida e as oportunidades necessárias para seu desenvolvimento integral.</p>
+                            <p>Pois esse é o período mais importante para a preparação dos alicerces da saúde, das competências e habilidades emocionais e cognitivas futuras. É nesse momento que a criança aprende com mais intensidade a aprender, a fazer, a se relacionar e a ser, e desenvolve importantes valores a partir de suas relações na família, na escola e na comunidade.</p>
                         </div>
                         <div class="col-md-6 col-sm-6 col-xs-12">
-                            <p>Nosso objetivo é que toda criança na primeira infância possua as condições necessárias ao seu pleno desenvolvimento. Que tenha as chances para desenvolver todo O seu potencial, com as menores dificuldades possíveis. Que suas mães e pais possam encontrar o apoio que necessitam para o desempenho das difíceis tarefas de conceber e cuidar da criança.<br><br>
+                            <p>Hoje sabemos que propostas e programas que estimulam adequadamente as crianças nos 6 primeiros anos de vida, conseguem promover maior impacto de melhoria individual e social, sendo que o efeito maior é percebido na sociedade. Podemos nos tornar pessoas virtuosas se nos forem dadas, durante a primeira infância, as oportunidades para tal.<br><br>
                             - João Figueiró -</p>
                         </div>
                     </div>                        
@@ -182,19 +183,13 @@
                     </div>
                     <div class="col-md-7 col-sm-7 col-xs-12">
 
-                        <p><strong>Todo mundo sonha com um mundo mais desenvolvido e pleno.</strong><br>
-                        Mas para construí-lo, é necessário investir no desenvolvimento <br>dos futuros adultos.</p>
+                        <p><strong>Sonhamos com um Brasil que prioriza a primeira infância.</strong></p>
 
-                        <p>E, para isso, criar melhor nossas crianças é fundamental.<br>
-                        No Instituto Zero a Seis, criança é assunto sério.<br>
-                        Um verdadeiro pacto com o passado, presente e futuro.<br>
-                        Nosso compromisso é conservar o melhor da infância.<br>
-                        Cuidar, estimular, orientar, proteger.</p>
+                        <p>Nosso compromisso é garantir que a criança brasileira tenha chances para desenvolver de forma saudável todo seu potencial, enfrentando as menores dificuldades possíveis.</p>
 
-                        <p>Levar mais informações para pais, professores e profissionais.<br>
-                        Juntos, podemos empoderar cada vez mais a infância.<br>
-                        Juntos, vamos fazer nosso sonho de um mundo melhor crescer <br>
-                        e virar realidade.</p>
+                        <p>Nosso empenho é sensibilizar a sociedade levando informações a pais, familiares, educadores, cuidadores, comunidades, políticos e empresários para que todos tenham consciência da importância do investimento na primeira infância como fator chave para erradicar a pobreza, reduzir a violência e a injustiça social, propiciando desenvolvimento mais equitativo e pleno.</p>
+
+                        <p>E será juntos que vamos fazer esse sonho de um país melhor e mais justo tornar-se realidade.</p>
 
                     </div>
                 </div>
@@ -205,8 +200,8 @@
                     <div class="row">
 
                         <div class="col-md-8 col-sm-5 col-xs-12">
-                            <h3>Para nós, criança é assunto sério.</h3>
-                            <p>Acreditamos que cuidar, escutar, estimular, orientar e proteger as crianças é a forma mais eficaz para compor uma sociedade mais justa e equilibrada. Para isso promovemos projetos que visam conservar, antes de tudo, o melhor da infância: a criança.</p>
+                            <h3>Para o Zero a Seis, criança é assunto sério.</h3>
+                            <p>Acreditamos que propostas e programas voltados para a promoção do desenvolvimento integral das crianças durante a primeira infância têm impacto muito relevante na qualidade de vida e nas perspectivas futuras delas. Para isso, elaboramos projetos que visam atuar positivamente em seus primeiros 6 anos de vida.</p>
                             <br>
 
                             <div class="row">
@@ -249,7 +244,7 @@
 
                 <div class="container">
                     <div class="col-md-6 col-sm-6">                        
-                        <figure class="item-inspiracoes" data-toggle="modal" data-target="#myModal" onclick="abreFoto(2)">
+                        <figure class="item-inspiracoes" onclick="window.open('http://g1.globo.com/globo-news/jornal-globo-news/videos/v/premio-nobel-diz-que-investir-em-criancas-de-zero-a-seis-anos-pode-ajudar-a-mudar-o-brasil/6172985/')">
                             <img src="images/james-heckman.jpg" alt="">
                             <figcaption><strong>James Heckman</strong><br>Economista ganhador do prêmio Nobel de economia de 2000.</figcaption>
                             <span><i class="fa fa-play"></i></span>
@@ -258,7 +253,7 @@
                     <div class="col-md-6 col-sm-6">                        
                         <figure class="item-inspiracoes" data-toggle="modal" data-target="#myModal" onclick="abreFoto(3)">
                             <img src="images/dr-joao-augusto-figueiro.jpg" alt="">
-                            <figcaption><strong>James Heckman</strong><br>Economista ganhador do prêmio Nobel de economia de 2000.</figcaption>
+                            <figcaption><strong>João Augusto Figueiró</strong><br>Médico, neurocientista, psicoterapeuta e empreendedor social - fundador do Instituto Zero a Seis.</figcaption>
                             <span><i class="fa fa-play"></i></span>
                         </figure>
                     </div>
@@ -297,11 +292,12 @@
                                     <img src="images/chave-amarela-transparente.png" alt="" >
                                 </div>
                                 <div class="item-tab">
-                                    <p>Dimitrie Josif Gheorghiu (médico)<br>
+                                    <p>Celia Cristina Whitaker (advogada)<br>                                    
+                                    Dimitrie Josif Gheorghiu (médico)<br>                                    
                                     George Winnik (professor)<br>
                                     Ively Helena Giaquinto Taralli (psicóloga)<br>
                                     Nair de Oliveira Pontes (psicóloga)<br>
-                                    Celia Cristina Whitaker (advogada)</p>
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -314,9 +310,9 @@
                                     <img src="images/chave-amarela-transparente.png" alt="" >
                                 </div>
                                 <div class="item-tab">
-                                    <p>Sandra Valente Battistella<br>
-                                    Bruna Iaconelli<br>
-                                    Henrique Schreurs</p>
+                                    <p>Bruna Iaconelli<br>
+                                    Henrique Schreurs<br>                                    
+                                    Sandra Valente Battistella</p>
                                 </div>
                             </div>
                         </div>
@@ -326,7 +322,7 @@
             </section>
 
 
-
+            <!--
             <section id="relatorio-anual-zas">                
                 <div class="container">
                     <div class="col-xs-12 col-md-2"></div>
@@ -350,6 +346,7 @@
                 </div>
             <div id="nossos_parceiros"></div>
             </section>
+            -->
 
 
             <section id="nossos-parceiros">
