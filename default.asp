@@ -404,11 +404,11 @@
         <!-- Font Awesome -->
 		<link href="vendors/font-awesome/css/font-awesome.min.css" rel="stylesheet">
         <link rel="stylesheet" href="vendors/bxSlider/jquery.bxslider.css">
+       
 
         
-
-        
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+        <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>-->
+        <script src="js/vendor/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.3.min.js"><\/script>')</script>  
 
         <!-- ************************************************************************************************

@@ -243,6 +243,7 @@
                 <h3>Exemplos que seguimos</h3>
 
                 <div class="container">
+                    <!--
                     <div class="col-md-6 col-sm-6">                        
                         <figure class="item-inspiracoes" onclick="window.open('http://g1.globo.com/globo-news/jornal-globo-news/videos/v/premio-nobel-diz-que-investir-em-criancas-de-zero-a-seis-anos-pode-ajudar-a-mudar-o-brasil/6172985/')">
                             <img src="images/james-heckman.jpg" alt="">
@@ -250,6 +251,7 @@
                             <span><i class="fa fa-play"></i></span>
                         </figure>
                     </div>
+                    -->
                     <div class="col-md-6 col-sm-6">                        
                         <figure class="item-inspiracoes" data-toggle="modal" data-target="#myModal" onclick="abreFoto(3)">
                             <img src="images/dr-joao-augusto-figueiro.jpg" alt="">

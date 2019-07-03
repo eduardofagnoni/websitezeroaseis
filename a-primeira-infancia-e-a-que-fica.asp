@@ -32,11 +32,11 @@
         <link rel="stylesheet" href="bootstrap/css/bootstrap.css"> 
 
         <!-- Meta Facebook Markup -->
-        <meta property="og:url" content="http://zeroaseis.provisorio.ws/a-primeira-infancia-e-a-que-fica.asp" >
+        <meta property="og:url" content="https://www.zeroaseis.org.br/a-primeira-infancia-e-a-que-fica.asp" >
         <meta property="og:type" content="Políticas públicas" >
         <meta property="og:title" content="A Primeira Infância é a Que Fica" >
         <meta property="og:description" content="O programa proporciona suporte técnico e formação para a implantação de ações nos municípios que darão concretude aos benefícios que serão construídos em favor de seus pequenos cidadãos." >
-        <meta property="og:image" content="http://zeroaseis.provisorio.ws/images/projetos/a-primeira-infancia-e-a-que-fica/a-primeira-infancia-e-a-que-fica.jpg" >
+        <meta property="og:image" content="https://www.zeroaseis.org.br/images/projetos/a-primeira-infancia-e-a-que-fica/a-primeira-infancia-e-a-que-fica.jpg" >
         <meta property="og:image:type" content="image/jpeg" >
         <meta property="og:image:width" content="1600" >
         <meta property="og:image:height" content="690" >
@@ -215,7 +215,7 @@
 
                             <div class="clearfix"></div>
                             <div class="compartilhamento">
-                                <p>Compartilhar <a href="javascript:;" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=http://zeroaseis.provisorio.ws%2Fa-primeira-infancia-e-a-que-fica.asp&amp;src=sdkpreparse', 'facebook-share-dialog', 'width=626,height=436'); return false;" class="fa fa-facebook-square" title="Compartilhe"></a></p>
+                                <p>Compartilhar <a href="javascript:;" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://www.zeroaseis.org.br%2Fa-primeira-infancia-e-a-que-fica.asp&amp;src=sdkpreparse', 'facebook-share-dialog', 'width=626,height=436'); return false;" class="fa fa-facebook-square" title="Compartilhe"></a></p>
                             </div>
                         </div>
                         <div class="col-xs-12 col-sm-4 col-md-3">

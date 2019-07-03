@@ -11,6 +11,14 @@
 #RewriteRule ^(.*)/$ /default.asp?pagina=$1
 
 
+RewriteEngine On 
+
+RewriteCond %{SERVER_PORT} 80
+RewriteCond %{HTTP_HOST} ^(www\.)?zeroaseis\.org.br
+RewriteRule ^(.*)$ https://www.zeroaseis.org.br/$1 [R,L]
+
+RewriteCond %{HTTP_HOST} ^zeroaseis.org.br [NC]
+RewriteRule ^(.*)$ https://www.zeroaseis.org.br/$1 [L,R=301]
 
 
 
