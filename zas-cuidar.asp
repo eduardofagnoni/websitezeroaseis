@@ -3,14 +3,19 @@
 <!doctype html>
 <html lang="pt-br">
     <head>
+
+        <!-- #include file="_includes/tag-manager-header.asp" -->
+
+        <link rel="canonical" href="https://www.zeroaseis.org.br/zas-cuidar.asp" />
+
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title></title>
+        <title>Instituto Zero a Seis | O ZAS Cuidar é um programa de capacitação de pessoas que se relacionam e cuidam de crianças na primeira infância</title>
 
         <!-- Description -->
-        <meta name="description" content="">
+        <meta name="description" content="Na faixa etária de zero a seis anos, e principalmente durante a primeiríssima infância (zero a três), a forma como as pessoas se relacionam com as crianças precisa ser muito qualificada.">
         <meta name="keywords" content="">
         <meta name="author" content="">
         
@@ -55,12 +60,11 @@
     </head>
     <body>
 
+        <!-- #include file="_includes/tag-manager-body.asp" -->
+
         <!--[if lt IE 8]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
-
-
-
 
         <!-- Load Facebook SDK for JavaScript -->
         <div id="fb-root"></div>

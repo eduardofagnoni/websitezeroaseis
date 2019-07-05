@@ -21,6 +21,12 @@ RewriteCond %{HTTP_HOST} ^zeroaseis.org.br [NC]
 RewriteRule ^(.*)$ https://www.zeroaseis.org.br/$1 [L,R=301]
 
 
+ErrorDocument 404 https://www.zeroaseis.org.br/404/
+RewriteBase /
+RewriteCond %{REQUEST_URI} ^/404/$
+RewriteRule ^(.*)$ /404/default.asp [L]
+
+
 
 <IfModule mod_deflate.c>
 AddOutputFilterByType DEFLATE text/plain

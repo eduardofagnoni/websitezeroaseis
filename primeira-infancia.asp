@@ -3,14 +3,19 @@
 <!doctype html>
 <html lang="pt-br">
     <head>
+
+        <!-- #include file="_includes/tag-manager-header.asp" -->
+
+        <link rel="canonical" href="https://www.zeroaseis.org.br/primeira-infancia.asp" />
+
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title></title>
+        <title>Instituto Zero a Seis | Criamos um futuro melhor investindo na primeira infância</title>
 
         <!-- Description -->
-        <meta name="description" content="">
+        <meta name="description" content="A primeira infância corresponde ao período que vai desde a concepção do bebê, sua gestação, até os 6 anos de idade da criança. É etapa fundamental para o desenvolvimento de qualquer pessoa e as experiências desse período são levadas para o resto da vida.">
         <meta name="keywords" content="">
         <meta name="author" content="">   
         
@@ -44,6 +49,8 @@
 
     </head>
     <body>
+
+        <!-- #include file="_includes/tag-manager-body.asp" -->
 
         <!--[if lt IE 8]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
@@ -156,7 +163,7 @@
                     <div class="col-xs-12 col-md-6">
                         <div class="deco-roxo-destaques" style="margin-left:0;"></div>
                         <h3>Criamos um futuro melhor investindo na infância.</h3>
-                        <p>Não investir na criança, nessa fase da vida, é um dos maiores causadores de problemas sociais futuros, segundo o economista ganhador do prêmio Nobel, James Heckman. O Banco Interamericano de Desenvolvimento (BID) demonstra que 1 dólar investido durante a primeira infância gera economia de 7 dólares em:</strong></p>
+                        <p>Não investir na criança, nessa fase da vida, é um dos maiores causadores de problemas sociais futuros, segundo o economista ganhador do prêmio Nobel, James Heckman. O Banco Interamericano de Desenvolvimento (BID) demonstra que 1 dólar investido durante a primeira infância gera economia de 13 dólares em:</strong></p>
                         <ul>
                             <li>Assitência social</li>
                             <li>Atendimento a doenças mentais</li>

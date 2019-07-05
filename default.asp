@@ -4,16 +4,18 @@
 <html lang="pt-br">
     <head>
 
-        
+        <!-- #include file="_includes/tag-manager-header.asp" -->
+
+        <link rel="canonical" href="https://www.zeroaseis.org.br" />
 
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title></title>
+        <title>Instituto Zero a Seis | Um trabalho de mais de 20 anos pela primeira infância.</title>
 
         <!-- Description -->
-        <meta name="description" content="">
+        <meta name="description" content="O desenvolvimento da criança e a aplicação do conhecimento científico sobre a primeira infância são aspectos fundamentais para a promoção da saúde individual.">
         <meta name="keywords" content="">
         <meta name="author" content="">   
         
@@ -39,6 +41,8 @@
     </head>
     <body>
 
+        <!-- #include file="_includes/tag-manager-body.asp" -->
+
         <!--[if lt IE 8]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
@@ -56,8 +60,8 @@
                     <div class="container">
                         <div style="float:left">
                             <img id="logo-zero-a-seis-header" onclick="location.href='<%=linkHome%>'" class="logo-normal" src="images/logo-zero-a-seis.png" alt="Instituto Zero a Seis" title="Instituto Zero a Seis" />
-                        </div>
-                        <div id="texto-de-apoio-para-o-logo" class="ponto-zero"><p>Organização sem fins lucrativos que <br>acredita na criação de um mundo melhor a <br>partir do cuidado com as crianças em sua <br>primeira infância.</p></div>
+                        </div>                        
+                        <div id="texto-de-apoio-para-o-logo" class="ponto-zero"><p>Organização da Sociedade Civil de Interesse <br>Público (Oscip) que acredita na criação <br>de um mundo melhor a partir do cuidado com <br>as crianças em sua primeira infância.</p></div>
                         <div id="menu-hamburguer-abre" class="menu-hamburguer"><span class="glyphicon glyphicon-menu-hamburger" aria-hidden="true"></span></div>
                         
                         <!-- #include file="_includes/nav-header-menu.asp" -->
@@ -74,35 +78,7 @@
             </header>
 
 
-            <ul id="banners-home" class="bxslider">
-
-                <li style="background-image: url(images/banner-2.jpg); -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;">
-                    <div class="descritivo-banner">
-                        <p style="font-size:0.6em">“Dentro de cada um de nós <br>
-                        habita uma criança.<br>
-                        A criança que foi construída <br>
-                        nos primeiros anos de vida”.<br>
-                        <small style="font-size:0.5em">Conheça o Dr. João Augusto Figueiró, nosso fundador.</small></p>
-
-                        <!--
-                        <div class="cont-btn-banner">
-                            <a href="http://google.com" class="btn">
-                                <svg width="277" height="62">
-                                    <defs>
-                                        <linearGradient id="grad2">
-                                            <stop offset="0%" stop-color="#f8bf2c"/>
-                                            <stop offset="100%" stop-color="#f8bf2c" />
-                                        </linearGradient>
-                                    </defs>
-                                    <rect x="5" y="10" rx="25" fill="none" stroke="url(#grad2)" width="266" height="50"></rect>
-                                </svg>
-                                <span>Saiba mais</span>
-                            </a>
-                        </div>
-                        -->
-
-                    </div>
-                </li>
+            <ul id="banners-home" class="bxslider">                
 
                 <li style="background-image: url(images/banner-1.jpg); -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;">
                     <div class="descritivo-banner">
@@ -132,7 +108,7 @@
                         <p style="font-size:0.8em"><strong>Cada 1 dólar <br>
                         investido na primeira <br>
                         infância</strong> gera economia <br>
-                        futura de 7 dólares.</p>
+                        futura de 13 dólares.</p>
 
                         <div class="cont-btn-banner">
                             <a href="primeira-infancia.asp" class="btn">
@@ -148,6 +124,35 @@
                                 <span>Saiba mais</span>
                             </a>
                         </div>
+                    </div>
+                </li>
+
+
+                <li style="background-image: url(images/banner-2.jpg); -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;">
+                    <div class="descritivo-banner">
+                        <p style="font-size:0.6em">“Dentro de cada um de nós <br>
+                        habita uma criança.<br>
+                        A criança que foi construída <br>
+                        nos primeiros anos de vida”.<br>
+                        <small style="font-size:0.5em">Conheça o Dr. João Augusto Figueiró, nosso fundador.</small></p>
+
+                        <!--
+                        <div class="cont-btn-banner">
+                            <a href="http://google.com" class="btn">
+                                <svg width="277" height="62">
+                                    <defs>
+                                        <linearGradient id="grad2">
+                                            <stop offset="0%" stop-color="#f8bf2c"/>
+                                            <stop offset="100%" stop-color="#f8bf2c" />
+                                        </linearGradient>
+                                    </defs>
+                                    <rect x="5" y="10" rx="25" fill="none" stroke="url(#grad2)" width="266" height="50"></rect>
+                                </svg>
+                                <span>Saiba mais</span>
+                            </a>
+                        </div>
+                        -->
+
                     </div>
                 </li>
 

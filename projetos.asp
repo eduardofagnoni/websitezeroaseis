@@ -3,14 +3,19 @@
 <!doctype html>
 <html lang="pt-br">
     <head>
+
+        <!-- #include file="_includes/tag-manager-header.asp" -->
+
+        <link rel="canonical" href="https://www.zeroaseis.org.br/projetos.asp" />
+
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title></title>
+        <title>Instituto Zero a Seis | Projetos que estimulam, orientam e protegem nossas crianças</title>
 
         <!-- Description -->
-        <meta name="description" content="">
+        <meta name="description" content="Acreditamos que cuidar, estimular, orientar e proteger nossas crianças é a forma mais eficaz para compor uma sociedade mais justa e equilibrada. Para isso, elaboramos projetos tanto para os setores públicos como privados, ações direcionadas a pais, familiares, cuidadores e educadores, propostas voltadas às empresas, além de atuar em parceria com empreendedores sociais.">
         <meta name="keywords" content="">
         <meta name="author" content="">   
         
@@ -44,6 +49,8 @@
 
     </head>
     <body>
+
+        <!-- #include file="_includes/tag-manager-body.asp" -->
 
         <!--[if lt IE 8]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
@@ -82,7 +89,7 @@
                     <div class="descritivo-banner-interno">
                         <div class="deco-amarelo-destaques"></div>
                         <h1 style="color:#5c3672;">Projetos</h1>
-                        <p class="paragrafo-1" style="color:#5c3672;">Acreditamos que cuidar, estimular, orientar e proteger nossas crianças é a forma mais eficaz para compor uma sociedade mais justa e equilibrada. Para isso, elaboramos projetos tanto para os setores públicos como privados, ações direcionadas a pais, familiares, cuidadores e educadores, propostas voltadas às empresas, além de atuar em parceria com empreendedores sociais.</p>
+                        <p class="paragrafo-1" style="color:#5c3672;">Acreditamos que cuidar, estimular, orientar e proteger nossas crianças é a forma mais eficaz para compor uma sociedade mais justa e equilibrada. Para isso, elaboramos projetos tanto para os setores públicos como privados, ações direcionadas a pais, familiares, cuidadores e educadores, como também propostas voltadas às empresas, além de atuar em parceria com empreendedores sociais.</p>
                     </div>
                 </div>
             </div>   

@@ -3,14 +3,19 @@
 <!doctype html>
 <html lang="pt-br">
     <head>
+
+        <!-- #include file="_includes/tag-manager-header.asp" -->
+
+        <link rel="canonical" href="https://www.zeroaseis.org.br/seja-parceiro.asp" />
+
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title></title>
+        <title>Instituto Zero a Seis | Ajude a construir um futuro mais pleno e desenvolvido</title>
 
         <!-- Description -->
-        <meta name="description" content="">
+        <meta name="description" content="Sua empresa também pode ajudar o Instituto Zero a Seis a construir um futuro mais pleno e desenvolvido. Entre em contato e saiba como.">
         <meta name="keywords" content="">
         <meta name="author" content="">   
         
@@ -44,6 +49,8 @@
 
     </head>
     <body>
+
+        <!-- #include file="_includes/tag-manager-body.asp" -->
 
         <!--[if lt IE 8]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
@@ -82,7 +89,7 @@
                     <div class="descritivo-banner-interno">
                         <div class="deco-amarelo-destaques"></div>
                         <h1 style="color:#5c3672;">Seja parceiro</h1>
-                        <p class="paragrafo-1" style="color:#5c3672;">Sua empresa também pode ajudar o Instituto Zero a Seis a construir um futuro mais pleno e desenvolvido. Entre em contato e saiba como.</p>
+                        <p class="paragrafo-1" style="color:#5c3672;">Sua empresa também pode ajudar o Instituto Zero a Seis a efetivar seu propósito de promover o desenvolvimento integral das crianças brasileiras na primeira infância, pois nenhum investimento é capaz de assegurar um retorno mais rápido e promissor para o País. Entre em contato e saiba como.</p>
                     </div>
                 </div>
             </div>   
@@ -98,7 +105,10 @@
                                     <label for="txtAssunto">Assunto</label>
                                     <select name="txtAssunto" id="txtAssunto" class="form-control">
                                         <option value="">Selecione</option>
-                                        <option value="...">...</option>
+                                        <option value="Solicitações">Solicitações</option>
+                                        <option value="Dúvidas">Dúvidas</option>
+                                        <option value="Sugestões">Sugestões</option>
+                                        <option value="Outros">Outros</option>  
                                     </select>
                                 </div>
                                 <div class="form-group">
@@ -113,7 +123,7 @@
                             <div class="col-md-6 col-xs-12">
                                 <div class="form-group">
                                     <label for="txtMsg">Mensagem</label>
-                                    <textarea name="" id="" class="form-control" placeholder="Digite suas mensagens"></textarea>
+                                    <textarea name="" id="" class="form-control" placeholder="Digite sua mensagem"></textarea>
                                 </div>
                                 
                                 <div class="cont-btn-banner" style="float:right">

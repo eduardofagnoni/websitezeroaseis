@@ -3,14 +3,19 @@
 <!doctype html>
 <html lang="pt-br">
     <head>
+
+        <!-- #include file="_includes/tag-manager-header.asp" -->
+
+        <link rel="canonical" href="https://www.zeroaseis.org.br/a-primeira-infancia-e-a-que-fica.asp" />
+
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title></title>
+        <title>Instituto Zero a Seis | a primeira infância é a que fica</title>
 
         <!-- Description -->
-        <meta name="description" content="">
+        <meta name="description" content="A primeira infância é a que fica é programa que compõe ações sempre adaptadas às necessidades, à estrutura, às particularidades e aos recursos locais disponíveis.">
         <meta name="keywords" content="">
         <meta name="author" content="">
         
@@ -55,12 +60,11 @@
     </head>
     <body>
 
+        <!-- #include file="_includes/tag-manager-body.asp" -->
+
         <!--[if lt IE 8]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
-
-
-
 
         <!-- Load Facebook SDK for JavaScript -->
         <div id="fb-root"></div>
@@ -71,7 +75,6 @@
             js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
             fjs.parentNode.insertBefore(js, fjs);
         }(document, 'script', 'facebook-jssdk'));</script>
-
 
 <div id="preloader">
     <canvas id="canvas" width="1950px" height="800px"></canvas>

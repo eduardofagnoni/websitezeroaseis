@@ -5,7 +5,7 @@
     <a href="">Atuação</a>
     <a href="<%=linkInspiracao%>">Inspiração</a>
     <a href="<%=linkCorpoDiretivo%>">Corpo Diretivo</a>
-    <a href="<%=linkRelatorioAnual%>">Relatório Anual</a>
+    <!--<a href="<%=linkRelatorioAnual%>">Relatório Anual</a>-->
     <a href="<%=linkParceiros%>">Parceiros</a>
 </div>
 <div class="col-md-2 col-xs-12">

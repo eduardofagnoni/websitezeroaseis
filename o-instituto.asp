@@ -3,14 +3,19 @@
 <!doctype html>
 <html lang="pt-br">
     <head>
+
+        <!-- #include file="_includes/tag-manager-header.asp" -->
+
+        <link rel="canonical" href="https://www.zeroaseis.org.br/o-instituto.asp" />
+
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title></title>
+        <title>Instituto Zero a Seis | Organização pioneira no país na causa pela primeira infância</title>
 
         <!-- Description -->
-        <meta name="description" content="">
+        <meta name="description" content="Criado em 2006, o Instituto Zero a Seis é organização pioneira no país na causa pela primeira infância, pois acredita que a construção de uma sociedade melhor se dá por meio da atenção prioritária às crianças, desde o período gestacional até os 6 anos de idade.">
         <meta name="keywords" content="">
         <meta name="author" content="">   
         
@@ -44,6 +49,8 @@
 
     </head>
     <body>
+
+        <!-- #include file="_includes/tag-manager-body.asp" -->
 
         <!--[if lt IE 8]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
@@ -125,7 +132,7 @@
                         </div>
                         <div class="col-md-4 col-sm-4 col-xs-12 objetivos-do-instituto">
                             <div class="deco-amarelo-destaques"></div>
-                            <h2 class="titulo-modelo-1">PRINCIPAL OBJETIVO DO ZAS</h2>
+                            <h2 class="titulo-modelo-1">PRINCIPAL OBJETIVO DO Instituto Zero a Seis</h2>
                             <p>Construir uma sociedade melhor por meio da atenção com a primeira infância.</p>
                         </div>
                     </div>
@@ -168,7 +175,7 @@
                         <div class="col-md-6">
                             <ul>
                                 <li><i class="fa fa-check"></i> Apoio ao empreendedor social.</li>
-                                <li><i class="fa fa-check"></i> Captação de recursos.</li>
+                                <li><i class="fa fa-check"></i> Implantação e coordenadoria de projeto.</li>
                                 <li><i class="fa fa-check"></i> Consultoria e assessoria técnica.</li>
                             </ul>
                         </div>
